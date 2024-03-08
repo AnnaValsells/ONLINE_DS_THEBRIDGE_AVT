@@ -9,7 +9,7 @@ dimension = (10,10)
 # disparo_barco = 4
 
 
-agua = "~"
-barco = "O"
-disparo_barco = "*"
-disparo_agua = "·"
+# agua = 🌊#U+1F30A
+# barco = 🛥#U+1F6E5
+# disparo_barco = 💥#U+1F4A5 	
+# disparo_agua = ▪#U+25AA
