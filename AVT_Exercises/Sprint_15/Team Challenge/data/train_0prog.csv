@@ -1,0 +1,913 @@
+,id,laptop_ID,Company,Product,TypeName,Inches,OpSys,Price_euros,Peso_kg,RAM_GB,SSD_GB,HDD_GB,Flash_Storage_GB,Hybrid_GB,Modelo_Serie_CPU,Velocidad_CPU_GHz,Cores_CPU,CPU_Intel,CPU_AMD,GPU_AMD,GPU_Intel,GPU_Nvidia,GPU_tipo_serie,Num_Pixeles,Screen_IPS,Screen_HD,Screen_Touchscreen,Screen_4K,Screen_Retina,Screen_QuadHD+
+0,268,1002,Dell,Inspiron 5567,Notebook,15.6,Windows 10,749.0,2.36,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,1049088,0,0,0,0,0,0
+1,347,867,Asus,X541NA (N4200/4GB/1TB/W10),Notebook,15.6,Windows 10,449.0,2.0,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+2,353,966,Toshiba,Portege Z30-C-1CW,Notebook,13.3,Windows 7,1460.0,1.2,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+3,578,767,Dell,Alienware 17,Gaming,15.6,Windows 10,2868.99,4.42,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,8294400,1,1,0,1,0,0
+4,42,1241,Dell,Latitude E7270,Ultrabook,12.5,Windows 7,1713.37,1.26,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,1,0,0,0
+5,867,376,Asus,ZenBook Flip,2 in 1 Convertible,15.6,Windows 10,1099.0,2.26,12,512,2048,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GT 940MX,2073600,0,1,1,0,0,0
+6,1136,60,Asus,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Notebook,15.6,Linux,415.0,2.0,4,256,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+7,609,1157,MSI,GP62M 7RDX,Gaming,15.6,Windows 10,1142.8,2.4,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+8,474,110,Asus,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Ultrabook,14.0,Windows 10,1193.0,1.3,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,1,1,0,0,0,0
+9,838,1263,Asus,Rog GL553VE-FY052T,Gaming,15.6,Windows 10,1600.0,2.5,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+10,851,1243,Asus,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Notebook,15.6,Windows 10,309.0,2.65,4,0,1024,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,0,0,0,0
+11,904,79,Dell,Inspiron 5570,Notebook,15.6,Windows 10,855.0,2.02,8,128,1024,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+12,355,957,Toshiba,Tecra A50-C-1ZV,Notebook,15.6,Windows 10,1119.0,2.2,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+13,44,579,HP,15-cd005nv (A9-9420/6GB/256GB/Radeon,Notebook,15.6,Windows 10,649.0,1.95,6,256,0,0,0,A9-Series A9-9420,3.0,1,0,1,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+14,36,834,Toshiba,Satellite Pro,Notebook,14.0,Windows 10,499.0,1.75,4,128,0,0,0,Pentium Dual Core,2.1,2,1,0,0,1,0,HD Graphics 510,1049088,0,0,0,0,0,0
+15,971,82,Dell,Latitude 5590,Ultrabook,15.6,Windows 10,1096.16,1.88,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+16,938,159,Lenovo,Yoga 520-14IKB,2 in 1 Convertible,14.0,Windows 10,629.0,1.74,4,256,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+17,718,332,Acer,Aspire E5-575,Notebook,15.6,Windows 10,549.0,2.23,6,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+18,518,617,Lenovo,Thinkpad P51,Notebook,15.6,Windows 10,4899.0,2.5,32,1024,0,0,0,Xeon E3-1535M v6,3.1,1,1,0,0,0,1,Quadro M2200M,8294400,1,1,0,1,0,0
+19,1126,172,Acer,Aspire A517-51G,Notebook,17.3,Windows 10,854.0,3.0,8,256,0,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+20,51,1097,Lenovo,Yoga Book,2 in 1 Convertible,10.1,Windows 10,646.27,0.69,4,0,0,64,0,Atom x5-Z8550,1.44,1,1,0,0,1,0,HD Graphics 400,2304000,1,0,1,0,0,0
+21,772,717,HP,17-ak002nv (A10-9620P/6GB/2TB/Radeon,Notebook,17.3,Windows 10,655.01,2.71,6,0,2048,0,0,A10-Series,2.5,1,0,1,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+22,1001,814,HP,EliteBook 820,Netbook,12.5,Windows 10,1389.0,1.26,8,256,0,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+23,330,202,HP,Omen 17-W295,Gaming,17.3,Windows 10,1379.0,3.35,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+24,66,405,Dell,Precision M5520,Workstation,15.6,Windows 10,2712.0,1.78,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M1200,8294400,0,1,1,1,0,0
+25,829,41,Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Notebook,15.6,Linux,389.0,2.0,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+26,1129,741,Acer,Extensa EX2540-58KR,Notebook,15.6,Windows 10,559.0,2.4,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+27,1197,983,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Windows 10,695.0,2.4,6,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+28,171,407,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Windows 10,306.0,2.2,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+29,233,323,HP,ProBook 640,Notebook,14.0,Windows 10,980.0,1.95,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+30,205,166,Dell,Inspiron 3576,Notebook,15.6,Windows 10,728.0,2.13,8,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+31,361,309,Asus,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Gaming,15.6,Windows 10,1265.0,2.5,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+32,1250,1276,Lenovo,B51-80 (i7-6500U/8GB/1008GB/Radeon,Notebook,15.6,Windows 7,895.0,2.32,8,0,0,0,1024,Core i7,2.5,1,1,0,1,0,0,Radeon R5 M330,2073600,0,1,0,0,0,0
+33,707,910,Dell,Vostro 3568,Notebook,15.6,Windows 10,614.0,2.18,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M420X,1049088,0,0,0,0,0,0
+34,884,919,Acer,Chromebook CB5-571-C1DZ,Notebook,15.6,Chrome OS,359.0,2.2,4,0,0,16,0,Celeron Dual Core,1.5,2,1,0,0,1,0,HD Graphics,2073600,1,1,0,0,0,0
+35,1071,1258,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Windows 10,597.57,2.2,6,256,0,0,0,A12-Series,3.6,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+36,95,895,Dell,Inspiron 3552,Notebook,15.6,Windows 10,369.0,2.2,4,0,500,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+37,745,1190,Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Notebook,15.6,Windows 10,369.0,2.2,4,0,500,0,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+38,899,37,Acer,Aspire 3,Notebook,15.6,Linux,367.0,2.1,4,0,1024,0,0,Core i3,2.7,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+39,313,333,Asus,VivoBook S15,Ultrabook,15.6,Windows 10,1049.9,1.7,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+40,1063,933,MSI,GL62M 7RD,Gaming,15.6,Windows 10,1119.91,2.2,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+41,193,1066,Dell,Inspiron 5578,2 in 1 Convertible,15.6,Windows 10,1094.0,2.3,8,256,0,0,0,Core i5,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+42,625,25,HP,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Ultrabook,15.6,Windows 10,659.0,1.91,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+43,142,429,HP,ProBook 650,Notebook,15.6,Windows 10,1427.0,2.31,8,256,0,0,0,Core i7,2.9,1,1,0,0,1,0,HD Graphics 630,2073600,0,1,0,0,0,0
+44,243,685,HP,Chromebook X360,2 in 1 Convertible,11.6,Chrome OS,495.0,1.4,8,0,0,64,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,1,0,0,0
+45,1214,341,HP,EliteBook 840,Notebook,14.0,Windows 10,1268.0,1.48,8,256,0,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+46,1047,26,Dell,Inspiron 3567,Notebook,15.6,Windows 10,418.64,2.3,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+47,648,882,Lenovo,IdeaPad 110-15ISK,Notebook,15.6,No OS,479.0,2.2,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+48,34,7,Apple,MacBook Pro,Ultrabook,15.4,Mac OS X,2139.97,2.04,16,0,0,256,0,Core i7,2.2,1,1,0,0,1,0,Iris Pro Graphics,5184000,1,0,0,0,1,0
+49,804,1100,HP,EliteBook 840,Notebook,14.0,Windows 7,1030.99,1.54,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+50,872,555,HP,250 G6,Notebook,15.6,Windows 10,397.0,1.86,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+51,1297,1166,HP,EliteBook 850,Notebook,15.6,Windows 7,1579.0,1.88,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+52,192,720,Dell,Vostro 5568,Notebook,15.6,Linux,726.0,1.98,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+53,451,443,HP,15-ra044nv (N3060/4GB/500GB/W10),Notebook,15.6,Windows 10,347.0,2.1,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+54,894,997,Fujitsu,LifeBook A556,Notebook,15.6,Windows 10,649.0,2.3,4,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+55,961,1051,Toshiba,Tecra Z40-C-136,Ultrabook,14.0,Windows 10,1725.0,1.47,8,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,0,0,0,0
+56,1168,762,Lenovo,Thinkpad T460,Ultrabook,14.0,Windows 10,1096.0,1.7,4,180,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+57,966,1238,Lenovo,Thinkpad T560,Notebook,15.6,Windows 10,1529.0,2.3,8,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,0,0,0,0
+58,794,633,Mediacom,SmartBook 140,Notebook,14.0,Windows 10,239.0,1.4,2,0,0,32,0,Atom x5-Z8350,1.44,1,1,0,0,1,0,HD Graphics,2073600,0,1,0,0,0,0
+59,763,417,Lenovo,ThinkPad P51,Workstation,15.6,Windows 10,1925.0,2.67,8,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M1200,2073600,0,1,0,0,0,0
+60,946,109,Lenovo,Ideapad 310-15ISK,Notebook,15.6,Windows 10,414.9,1.85,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+61,1298,473,Acer,Aspire 5,Notebook,15.6,Windows 10,469.0,2.2,4,0,500,0,0,Core i3,2.0,1,1,0,0,0,1,GeForce GTX 940MX,1049088,0,0,0,0,0,0
+62,715,1147,Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Notebook,14.0,Windows 10,278.0,1.5,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+63,762,212,Dell,XPS 13,Ultrabook,13.3,Windows 10,1449.0,1.2,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+64,1101,795,MSI,GL62M (i5-7300HQ/8GB/1TB,Gaming,15.6,Windows 10,1089.0,2.2,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+65,994,1004,HP,EliteBook Folio,Netbook,12.5,Windows 10,1908.0,0.97,8,512,0,0,0,Core M,1.2,1,1,0,0,1,0,HD Graphics 515,2073600,0,1,0,0,0,0
+66,528,434,Dell,Latitude 5480,Ultrabook,14.0,Linux,1099.0,1.6,8,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+67,926,1219,Lenovo,IdeaPad 310-15ISK,Notebook,15.6,No OS,629.0,2.2,8,0,500,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 920MX,1049088,0,0,0,0,0,0
+68,791,1106,HP,250 G6,Notebook,15.6,No OS,345.99,1.86,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+69,351,963,Acer,Chromebook 14,Notebook,14.0,Chrome OS,349.0,1.68,4,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+70,166,1052,Dell,Latitude E5570,Notebook,15.6,Windows 7,1062.95,2.09,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+71,1196,168,Acer,Aspire A315-31,Notebook,15.6,Windows 10,348.0,2.1,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+72,1056,320,Dell,Inspiron 5570,Notebook,15.6,Windows 10,844.0,2.33,8,128,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+73,909,200,Razer,Blade Pro,Gaming,17.3,Windows 10,6099.0,3.49,32,1024,0,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1080,8294400,0,1,1,1,0,0
+74,1189,681,Lenovo,IdeaPad 320-15AST,Notebook,15.6,Windows 10,349.0,2.2,4,128,0,0,0,E-Series E2-9000,2.2,1,0,1,1,0,0,Radeon R2 Graphics,1049088,0,0,0,0,0,0
+75,654,1092,MSI,GT72VR Dominator,Gaming,17.3,Windows 10,2499.0,3.78,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+76,968,670,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Windows 10,535.0,2.2,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+77,1027,1164,HP,EliteBook 820,Ultrabook,12.5,Windows 7,2296.95,1.26,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+78,217,759,Lenovo,N23 (N3060/4GB/128GB/W10),Netbook,11.6,Windows 10,475.0,1.4,4,128,0,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,1,0,0,0
+79,1224,657,Lenovo,Thinkpad X270,Ultrabook,12.5,Windows 10,1584.0,1.36,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+80,559,189,Dell,Inspiron 7773,Notebook,17.3,Windows 10,1549.0,2.77,16,512,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce 150MX,2073600,0,1,1,0,0,0
+81,136,517,Dell,XPS 13,Ultrabook,13.3,Windows 10,899.0,1.29,8,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+82,420,198,Dell,Inspiron 5379,2 in 1 Convertible,13.3,Windows 10,839.0,1.62,8,0,1024,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+83,54,498,Toshiba,Portege X30-D-10L,Ultrabook,13.3,Windows 10,2799.0,1.05,32,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+84,788,127,Acer,Aspire 3,Notebook,15.6,Windows 10,451.0,2.1,4,256,0,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+85,628,765,HP,15-cb003na (i5-7300HQ/8GB/1TB,Notebook,15.6,Windows 10,1099.0,2.2,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+86,1215,274,Lenovo,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Notebook,15.6,Windows 10,880.0,2.05,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+87,396,1168,Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Notebook,15.6,No OS,339.0,1.9,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+88,1083,1320,Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Windows 10,369.0,2.2,4,0,500,0,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+89,20,858,HP,EliteBook x360,2 in 1 Convertible,13.3,Windows 10,2277.0,1.28,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+90,1263,94,HP,Probook 430,Notebook,13.3,Windows 10,1197.0,1.49,16,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+91,258,908,Dell,Inspiron 7567,Gaming,15.6,Linux,929.0,2.62,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050Ti,2073600,0,1,0,0,0,0
+92,159,950,Dell,Vostro 3568,Notebook,15.6,Windows 10,558.6,2.18,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+93,572,959,Lenovo,IdeaPad Y700-15ACZ,Gaming,15.6,Windows 10,999.0,2.5,16,512,1024,0,0,FX,2.1,1,0,1,1,0,0,Radeon R9 M385,2073600,1,1,0,0,0,0
+94,374,538,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,860.0,2.0,8,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+95,25,1142,HP,EliteBook 820,Ultrabook,12.5,Windows 7,1895.0,1.26,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+96,345,796,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,999.0,2.4,4,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+97,827,813,Dell,Latitude 3180,Netbook,11.6,Windows 10,744.0,1.63,4,128,0,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+98,661,525,HP,Probook 450,Notebook,15.6,Windows 10,889.0,2.04,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+99,102,603,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,Windows 10,2025.0,1.37,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+100,185,596,Asus,ROG Strix,Gaming,17.3,Windows 10,1770.0,2.73,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+101,69,233,Asus,K756UX-T4340T (i5-7200U/8GB/500GB,Notebook,17.3,Windows 10,891.0,2.69,8,256,500,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 950M,2073600,0,1,0,0,0,0
+102,327,169,MSI,GE63VR 7RE,Gaming,15.6,Windows 10,1799.0,2.4,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+103,439,899,Acer,Chromebook C731-C78G,Netbook,11.6,Chrome OS,297.0,1.25,4,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,1,0,0,0,0,0
+104,662,263,MSI,GT73EVR 7RE,Gaming,17.3,Windows 10,2499.0,4.14,16,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+105,799,242,Asus,X555QG-DM242T (A10-9620P/4GB/1TB,Notebook,15.6,Windows 10,575.0,2.2,4,128,1024,0,0,A10-Series A10-9620P,2.5,1,0,1,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+106,555,267,HP,ProBook 450,Notebook,15.6,Windows 10,722.0,2.1,4,0,500,0,0,Core i5,1.6,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+107,40,781,Toshiba,Tecra A40-C-1E5,Notebook,14.0,Windows 10,1020.0,1.75,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,1,0,0,0,0,0
+108,1110,1289,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,Windows 10,1499.0,1.3,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,5760000,1,1,1,0,0,1
+109,998,375,HP,Elitebook 1040,Ultrabook,14.0,Windows 10,1750.0,1.36,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+110,500,1121,MSI,GE72 Apache,Gaming,17.3,Windows 10,1511.19,2.9,8,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,0,1,0,0,0,0
+111,734,644,Dell,XPS 13,Ultrabook,13.3,Windows 10,1869.0,1.23,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,5760000,0,1,1,0,0,1
+112,974,484,Lenovo,Thinkpad T470,Notebook,14.0,Windows 10,1364.0,1.7,8,180,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+113,117,896,HP,EliteBook x360,2 in 1 Convertible,13.3,Windows 10,1799.0,1.28,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+114,392,1030,HP,ProBook 450,Notebook,15.6,Windows 10,769.99,2.04,4,256,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+115,1060,520,Dell,Inspiron 5570,Notebook,15.6,Windows 10,1219.24,2.2,16,256,2048,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+116,613,810,Asus,Pro P2540UA-XS51,Notebook,15.6,Windows 10,1099.0,2.37,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+117,711,119,HP,Probook 440,Notebook,14.0,Windows 10,1084.0,1.63,8,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+118,1245,1016,Dell,Vostro 3568,Notebook,15.6,Windows 10,547.0,2.18,4,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+119,639,412,Asus,Zenbook 3,Ultrabook,14.0,Windows 10,1873.0,1.1,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+120,9,165,Acer,Aspire A517-51G,Notebook,17.3,Windows 10,805.0,3.0,4,256,0,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+121,1213,712,Lenovo,V310-15ISK (i3-6006U/4GB/500GB/No,Notebook,15.6,No OS,450.0,1.9,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+122,535,432,Dell,Inspiron 7577,Gaming,15.6,Windows 10,1159.0,2.62,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+123,155,1206,Dell,XPS 13,Ultrabook,13.3,Linux,1099.0,1.23,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,5760000,0,1,1,0,0,1
+124,1074,561,HP,ProBook 470,Notebook,17.3,Windows 10,1280.0,2.63,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+125,472,599,Dell,Inspiron 3179,2 in 1 Convertible,11.6,Windows 10,603.0,1.39,4,128,0,0,0,Core M,1.0,1,1,0,0,1,0,HD Graphics 615,1049088,0,0,1,0,0,0
+126,47,601,Lenovo,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Notebook,17.3,No OS,529.0,2.8,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+127,5,132,HP,ProBook 470,Notebook,17.3,Windows 10,928.0,2.5,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+128,466,1139,Asus,VivoBook Max,Notebook,15.6,Windows 10,435.0,2.0,4,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+129,712,129,HP,Probook 440,Notebook,14.0,Windows 10,812.0,1.63,8,0,1024,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+130,212,838,Acer,Swift 3,Notebook,14.0,Windows 10,619.0,1.5,8,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+131,1067,3,HP,250 G6,Notebook,15.6,No OS,575.0,1.86,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+132,785,371,HP,15-AY023na (N3710/8GB/2TB/W10),Notebook,15.6,Windows 10,389.0,2.04,8,0,2048,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,0,0,0,0
+133,332,806,Dell,Latitude 3580,Notebook,15.6,Windows 10,810.0,1.95,8,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+134,1199,625,MSI,GT62VR 7RE,Gaming,15.6,Windows 10,2267.86,2.94,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+135,412,298,Dell,XPS 15,Notebook,15.6,Windows 10,1829.0,2.0,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+136,200,424,HP,EliteBook 1040,Ultrabook,14.0,Windows 10,1500.0,1.43,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+137,509,337,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,943.0,2.0,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+138,411,1247,MSI,GL62M 7RDX,Gaming,15.6,Windows 10,1149.0,2.2,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+139,627,878,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,Windows 10,1950.0,1.37,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+140,1088,347,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Windows 10,899.0,2.2,12,0,2048,0,0,A12-Series,3.6,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+141,881,939,Dell,Latitude 3580,Notebook,15.6,Windows 10,729.9,1.95,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+142,914,984,Dell,XPS 13,2 in 1 Convertible,13.3,Windows 10,1899.0,1.22,16,512,0,0,0,Core i7,1.3,1,1,0,0,1,0,HD Graphics 615,5760000,0,1,1,0,0,1
+143,690,187,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,793.0,2.0,8,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+144,111,478,HP,ZBook 15u,Notebook,15.6,Windows 10,1154.0,1.9,8,0,500,0,0,Core i5,2.5,1,1,0,1,0,0,FirePro W4190M ,2073600,0,1,0,0,0,0
+145,26,989,HP,Probook 450,Notebook,15.6,Windows 10,979.0,2.04,8,128,1024,0,0,Core i5,2.7,1,1,0,0,0,1,GeForce 930MX,2073600,1,1,0,0,0,0
+146,375,559,Dell,Alienware 17,Gaming,17.3,Windows 10,2699.0,4.42,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+147,289,1213,HP,Pavilion Power,Notebook,15.6,Windows 10,1327.0,2.21,12,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+148,1007,142,HP,Envy 13-AD007nv,Notebook,13.3,Windows 10,699.0,1.32,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+149,476,1141,Lenovo,Yoga Book,2 in 1 Convertible,10.1,Windows 10,479.0,0.69,4,0,0,64,0,Atom x5-Z8550,1.44,1,1,0,0,1,0,HD Graphics 400,2304000,1,0,1,0,0,0
+150,475,64,Asus,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Notebook,14.0,Windows 10,941.0,1.4,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+151,125,410,Acer,Aspire 7,Notebook,15.6,Linux,879.0,2.5,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+152,1154,859,HP,EliteBook 840,Ultrabook,14.0,Windows 10,1468.0,1.54,8,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+153,1184,359,HP,Zbook 15,Workstation,15.6,Windows 10,1738.27,2.6,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M1200,2073600,0,1,0,0,0,0
+154,322,574,Fujitsu,Lifebook A557,Notebook,15.6,Windows 10,739.0,2.2,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+155,280,885,Samsung,Notebook 9,Ultrabook,15.0,Windows 10,1849.0,1.23,16,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+156,63,125,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,No OS,629.0,2.2,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+157,547,862,Asus,Rog GL502VM-DS74,Gaming,15.6,Windows 10,1899.0,2.1,16,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+158,1293,322,Lenovo,ThinkPad 13,Notebook,13.3,Chrome OS,459.9,1.45,4,0,0,16,0,Celeron Dual Core,1.6,2,1,0,0,1,0,HD Graphics 510,1049088,0,0,0,0,0,0
+159,536,241,Acer,Aspire A315-51,Notebook,15.6,Linux,390.0,2.1,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+160,687,155,Lenovo,V110-15IKB (i5-7200U/4GB/128GB/W10),Notebook,15.6,Windows 10,498.0,1.9,4,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+161,1023,98,Dell,Inspiron 3567,Notebook,15.6,Linux,599.9,2.2,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+162,210,1123,HP,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),Notebook,15.6,Windows 10,398.0,2.1,4,0,1024,0,0,A6-Series,2.5,1,0,1,1,0,0,Radeon R4,2073600,0,1,0,0,0,0
+163,657,588,Dell,Latitude 5580,Notebook,15.6,Windows 10,1008.52,1.9,8,0,500,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+164,671,388,Asus,ROG Strix,Gaming,15.6,Windows 10,1655.0,2.3,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+165,194,1091,Lenovo,Ideapad 700-15ISK,Notebook,15.6,Windows 10,977.0,2.3,4,0,1024,0,0,Core i5,2.3,1,1,0,0,0,1,GeForce GTX 950M,2073600,1,1,0,0,0,0
+166,672,325,HP,Elitebook 840,Notebook,14.0,Windows 10,1292.0,1.48,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+167,1152,956,Acer,TravelMate P259-G2,Notebook,15.6,Windows 10,619.0,2.23,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+168,201,156,MSI,GE73VR 7RE,Gaming,17.3,Windows 10,1890.0,2.8,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+169,792,76,Acer,Aspire E5-475,Notebook,14.0,Windows 10,389.0,2.1,8,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+170,306,650,Lenovo,ThinkPad X1,Ultrabook,14.0,Windows 10,2450.0,1.14,16,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+171,828,231,Dell,Inspiron 5567,Notebook,15.6,Windows 10,859.01,2.3,16,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,1,0,0,0
+172,1055,918,HP,Elitebook 820,Netbook,12.5,Windows 10,1483.0,1.26,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+173,813,731,Dell,Alienware 17,Gaming,17.3,Windows 10,3659.4,4.36,32,1024,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,8294400,0,1,0,1,0,0
+174,1000,420,Acer,Aspire R7,2 in 1 Convertible,13.3,Windows 10,789.01,1.6,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+175,110,1000,HP,Probook 450,Notebook,15.6,Windows 10,806.0,2.04,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+176,399,453,Acer,Aspire ES1-572,Notebook,15.6,Linux,441.8,2.4,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+177,636,1192,Lenovo,IdeaPad 510-15IKB,Notebook,15.6,No OS,709.0,2.2,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+178,1264,157,HP,EliteBook 840,Ultrabook,14.0,Windows 10,1082.0,1.48,4,256,0,0,0,Core i5,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+179,318,167,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1079.0,2.5,16,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+180,172,1237,Acer,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),2 in 1 Convertible,14.0,Windows 10,1149.0,1.2,8,256,0,0,0,Core i7,1.3,1,1,0,0,1,0,HD Graphics 615,2073600,1,1,1,0,0,0
+181,293,289,Acer,Aspire A517-51G,Notebook,15.6,Windows 10,951.0,3.0,8,256,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+182,138,1146,Lenovo,ThinkPad P40,2 in 1 Convertible,14.0,Windows 7,2050.38,1.8,8,512,0,0,0,Core i7,2.6,1,1,0,0,0,1,Quadro M500M,2073600,1,1,1,0,0,0
+183,747,1256,MSI,GL62 6QF,Gaming,15.6,Windows 10,1169.0,2.3,8,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,0,1,0,0,0,0
+184,801,1064,Lenovo,ThinkPad X1,Notebook,14.0,Windows 7,2620.0,1.1,16,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,3686400,1,0,0,0,0,0
+185,45,414,Dell,Latitude 7480,Ultrabook,14.0,Windows 10,1680.0,1.36,8,512,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics,2073600,0,1,0,0,0,0
+186,1262,245,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Windows 10,589.0,2.2,8,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+187,923,239,Acer,Aspire R7,2 in 1 Convertible,13.3,Windows 10,689.0,1.6,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+188,879,1226,Acer,Aspire E5-774G,Notebook,17.3,Windows 10,629.0,3.3,8,0,1024,0,0,Core i3,2.0,1,1,0,0,0,1,GeForce 940MX,1440000,0,0,0,0,0,0
+189,931,1035,Toshiba,Portégé Z30-C-16K,Ultrabook,13.3,Windows 10,1590.0,1.2,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+190,730,1222,Asus,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Gaming,15.6,Windows 10,1169.0,2.2,8,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+191,55,430,Asus,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Notebook,15.6,Linux,597.0,2.3,8,0,1024,0,0,Core i3,2.4,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+192,373,1177,HP,Spectre Pro,2 in 1 Convertible,13.3,Windows 10,2041.0,1.48,8,512,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,3686400,0,0,1,0,0,0
+193,603,925,Lenovo,IdeaPad 510-15IKB,Notebook,15.6,Windows 10,789.0,2.2,6,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+194,197,906,Toshiba,Portege X30-D-10V,Notebook,13.3,Windows 10,1475.0,1.05,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+195,599,442,Asus,Rog Strix,Gaming,17.3,Windows 10,1695.0,3.2,8,256,1024,0,0,Ryzen,3.2,1,0,1,1,0,0,Radeon RX 580,2073600,0,1,0,0,0,0
+196,1258,797,Acer,Predator G9-793,Gaming,17.3,Windows 10,2299.0,4.2,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+197,682,116,HP,Probook 440,Notebook,14.0,Windows 10,722.0,1.63,4,0,500,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,1049088,1,0,0,0,0,0
+198,752,10,Acer,Swift 3,Ultrabook,14.0,Windows 10,770.0,1.6,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+199,283,563,Mediacom,SmartBook 130,Notebook,13.3,Windows 10,255.0,1.35,4,0,0,32,0,Atom x5-Z8350,1.44,1,1,0,0,1,0,HD Graphics,2073600,1,1,0,0,0,0
+200,1205,883,Toshiba,Tecra A50-D-11D,Notebook,15.6,Windows 10,1388.0,2.0,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+201,1237,1216,Acer,Aspire 3,Notebook,15.6,Linux,272.0,2.1,4,0,1024,0,0,Celeron Dual Core N3350,2.0,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+202,28,994,Dell,Inspiron 7579,2 in 1 Convertible,15.6,Windows 10,1299.0,2.19,12,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+203,809,56,Dell,Inspiron 3576,Notebook,15.6,Windows 10,767.8,2.13,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+204,1274,565,HP,15-bw007nv (A10-9620P/6GB/128GB/Radeon,Notebook,15.6,Windows 10,568.9,1.91,6,128,0,0,0,A10-Series A10-9620P,2.5,1,0,1,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+205,532,89,HP,250 G6,Notebook,15.6,Windows 10,598.99,1.96,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+206,1167,1249,Razer,Blade Pro,Gaming,14.0,Windows 10,3499.0,1.95,16,1024,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+207,942,506,Lenovo,ThinkPad L570,Notebook,15.6,Windows 10,911.0,2.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+208,638,123,Acer,Spin 3,Notebook,15.6,Windows 10,479.0,2.1,6,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+209,739,909,HP,ProBook 450,Notebook,15.6,Windows 10,900.0,2.04,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+210,1181,235,Asus,Pro P2540UA-XO0198T,Notebook,15.6,Windows 10,398.99,2.37,4,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+211,109,1274,Asus,Rog G752VT-GC073T,Gaming,17.3,Windows 10,1900.0,4.0,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 970M,2073600,1,1,0,0,0,0
+212,1235,853,Dell,Vostro 3568,Notebook,15.6,Windows 10,713.99,2.18,8,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+213,640,935,HP,EliteBook 850,Ultrabook,15.6,Windows 10,1296.99,1.84,8,256,0,0,0,Core i7,2.5,1,1,0,1,0,0,Radeon R7 M365X,2073600,0,1,0,0,0,0
+214,319,1266,Lenovo,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Notebook,15.6,No OS,573.0,2.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+215,1002,32,Asus,E402WA-GA010T (E2-6110/2GB/32GB/W10),Notebook,14.0,Windows 10,199.0,1.65,2,0,0,32,0,E-Series E2-6110,1.5,1,0,1,1,0,0,Radeon R2,1049088,0,0,0,0,0,0
+216,132,828,Dell,Latitude 3480,Notebook,14.0,Windows 10,755.0,1.76,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+217,560,1286,HP,Stream 11-Y000na,Netbook,11.6,Windows 10,209.0,1.17,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+218,601,689,Asus,L502NA-GO052T (N3350/4GB/128GB/W10),Notebook,15.6,Windows 10,419.0,1.86,4,128,0,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+219,495,851,Dell,Alienware 17,Gaming,17.3,Windows 10,3072.89,4.42,32,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+220,839,1012,Asus,Rog GL553VE-DS74,Gaming,15.6,Windows 10,1799.0,2.5,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+221,622,270,Dell,Inspiron 5579,2 in 1 Convertible,15.6,Windows 10,799.0,2.67,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,1,0,0,0
+222,619,121,Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Notebook,17.3,Windows 10,564.0,2.0,4,0,1024,0,0,Core i3,2.0,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+223,631,794,MSI,GS43VR 7RE,Gaming,14.0,Windows 10,1891.0,1.6,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+224,515,197,Lenovo,IdeaPad 320-17IKBR,Notebook,17.3,No OS,698.0,2.8,8,256,0,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX150,1440000,0,0,0,0,0,0
+225,869,686,LG,Gram 15Z975,Ultrabook,15.6,Windows 10,2299.0,1.09,8,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+226,1068,1161,HP,ZBook 15,Workstation,15.6,Windows 7,2229.0,2.59,8,256,0,0,0,Core i7,2.6,1,1,0,0,0,1,Quadro M1000M,2073600,1,1,0,0,0,0
+227,99,985,Dell,Latitude E7470,Ultrabook,14.0,Windows 10,1962.98,1.5,8,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,3686400,0,0,1,0,0,0
+228,795,130,Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,Notebook,14.0,Windows 10 S,277.99,1.65,4,64,0,0,0,E-Series,1.5,1,0,1,1,0,0,Radeon R2,1049088,0,0,0,0,0,0
+229,408,1303,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,Windows 10,1499.0,1.3,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,5760000,1,1,1,0,0,1
+230,634,501,Asus,Rog G752VL-UH71T,Gaming,17.3,Windows 10,1269.0,4.33,24,256,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 965M,2073600,1,1,1,0,0,0
+231,489,6,Acer,Aspire 3,Notebook,15.6,Windows 10,400.0,2.1,4,0,500,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+232,544,358,MSI,GP72MVR 7RFX,Gaming,17.3,Windows 10,1409.0,2.7,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+233,853,871,Lenovo,ThinkPad E570,Notebook,15.6,Windows 10,850.66,2.3,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+234,15,843,Lenovo,ThinkPad T470s,Notebook,14.0,Windows 10,1650.0,1.32,8,256,0,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+235,485,914,Dell,XPS 13,2 in 1 Convertible,13.3,Windows 10,1649.0,1.22,16,256,0,0,0,Core i7,1.3,1,1,0,0,1,0,HD Graphics 615,2073600,0,1,1,0,0,0
+236,290,472,Asus,X541NA-PD1003Y (N4200/4GB/500GB/W10),Notebook,15.6,Windows 10,304.0,2.0,4,0,500,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+237,860,399,Acer,Aspire 5,Notebook,15.6,Windows 10,693.99,2.2,12,0,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX130,1049088,1,0,0,0,0,0
+238,1206,1041,HP,ProBook 640,Notebook,14.0,Windows 10,1060.0,1.95,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+239,1174,823,Dell,Vostro 3568,Notebook,15.6,Windows 10,789.81,2.18,8,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M420,2073600,0,1,0,0,0,0
+240,566,611,Dell,Vostro 3568,Notebook,15.6,Linux,465.0,2.18,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M420,1049088,0,0,0,0,0,0
+241,227,373,Lenovo,Legion Y520-15IKBN,Gaming,15.6,No OS,809.0,2.4,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+242,967,1312,HP,Pavilion 15-AW003nv,Notebook,15.6,Windows 10,549.99,2.04,6,0,0,0,1024,A9-Series,2.9,1,0,1,1,0,0,Radeon R7 M440,2073600,0,1,0,0,0,0
+243,423,836,Dell,Latitude 3480,Notebook,14.0,Windows 10,585.0,1.76,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+244,1221,609,Acer,Aspire 1,Notebook,14.0,Windows 10,329.0,1.6,4,0,0,32,0,Celeron Quad Core N3450,1.1,4,1,0,0,1,0,HD Graphics 500,2073600,0,1,0,0,0,0
+245,1116,936,HP,Envy 13-AB077cl,Ultrabook,13.3,Windows 10,1149.0,1.39,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,5760000,0,1,1,0,0,1
+246,947,642,Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Notebook,15.6,Windows 10,399.0,2.0,8,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+247,178,728,Lenovo,ThinkPad X1,Ultrabook,14.0,Windows 10,1686.64,1.17,8,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,3686400,1,1,0,0,0,1
+248,580,719,Dell,Latitude 5480,Notebook,14.0,Linux,1089.0,1.64,8,256,0,0,0,Core i5,2.8,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+249,370,749,Dell,Vostro 3568,Notebook,15.6,Windows 10,665.0,2.0,8,256,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+250,291,83,Apple,"MacBook 12""",Ultrabook,12.0,macOS,1510.0,0.92,8,512,0,0,0,Core i5,1.3,1,1,0,0,1,0,HD Graphics 615,3317760,1,0,0,0,1,0
+251,652,143,Acer,Aspire 5,Notebook,17.3,Windows 10,655.0,3.0,4,0,1024,0,0,Core i3,2.7,1,1,0,0,0,1,GeForce MX130,2073600,1,1,0,0,0,0
+252,349,1175,Lenovo,ThinkPad T460s,Ultrabook,14.0,Windows 7,2299.0,1.4,12,512,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+253,23,2,Apple,Macbook Air,Ultrabook,13.3,macOS,898.94,1.34,8,0,0,128,0,Core i5,1.8,1,1,0,0,1,0,HD Graphics 6000,1296000,0,0,0,0,0,0
+254,956,180,Acer,Aspire A315-51,Notebook,15.6,Windows 10,449.0,2.1,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+255,996,560,HP,17-X047na (i3-6006U/8GB/1TB/W10),Notebook,17.3,Windows 10,544.15,2.65,8,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1440000,0,0,0,0,0,0
+256,1296,932,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1349.0,2.6,16,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+257,482,1131,Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,Windows 10,2749.99,4.6,16,256,0,0,1024,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 980M,2073600,1,1,0,0,0,0
+258,650,677,Acer,Aspire 3,Notebook,15.6,Linux,412.0,2.1,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+259,624,616,Acer,Swift SF114-31-P5HY,Notebook,14.0,Windows 10,349.0,1.6,4,0,0,128,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,0,0,0,0
+260,888,118,HP,Spectre x360,2 in 1 Convertible,13.3,Windows 10,1398.99,1.26,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+261,488,753,Acer,Chromebook 14,Notebook,14.0,Chrome OS,330.0,1.68,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+262,1238,422,Dell,Inspiron 3567,Notebook,15.6,Linux,598.9,2.3,4,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+263,154,668,Dell,Latitude E7470,Notebook,14.0,Windows 10,1229.0,1.56,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+264,381,705,Asus,Chromebook Flip,2 in 1 Convertible,12.5,Chrome OS,669.0,1.2,4,0,0,64,0,Core M M3-6Y30,0.9,1,1,0,0,1,0,HD Graphics 515,2073600,0,1,1,0,0,0
+265,512,915,Lenovo,ThinkPad X1,Ultrabook,14.0,Windows 10,2049.0,1.13,8,0,0,256,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+266,494,785,Lenovo,Thinkpad P50,Notebook,15.6,Windows 7,2370.0,2.5,16,512,0,0,0,Core i7,2.7,1,1,0,0,0,1,Quadro M2000M,8294400,0,1,0,1,0,0
+267,742,1034,Dell,Inspiron 5568,2 in 1 Convertible,15.6,Windows 10,795.99,2.08,4,0,1024,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+268,61,372,Dell,Inspiron 5770,Notebook,17.3,Windows 10,1085.0,2.8,8,128,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+269,907,1038,Dell,Latitude E5570,Notebook,15.6,Windows 10,1046.44,2.09,8,0,500,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+270,308,610,MSI,Laptop MSI,Gaming,17.3,Windows 10,2199.0,4.14,16,128,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 970M,2073600,0,1,0,0,0,0
+271,72,1306,Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Windows 10,369.0,2.2,4,0,500,0,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+272,454,485,Dell,Inspiron 3576,Notebook,15.6,Windows 10,675.0,2.2,8,0,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+273,978,905,MSI,GS73VR Stealth,Gaming,17.3,Windows 10,2649.0,2.43,16,512,2048,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1060,8294400,1,1,0,1,0,0
+274,581,587,Mediacom,SmartBook Edge,Notebook,14.0,Windows 10,389.0,1.45,4,32,0,0,0,Celeron Quad Core N3450,1.1,4,1,0,0,1,0,HD Graphics 500,2073600,1,1,0,0,0,0
+275,1192,254,Apple,MacBook Pro,Ultrabook,13.3,macOS,2040.0,1.37,8,512,0,0,0,Core i5,3.1,1,1,0,0,1,0,Iris Plus Graphics 650,4096000,1,0,0,0,1,0
+276,1268,426,Lenovo,ThinkPad E480,Ultrabook,14.0,Windows 10,1215.38,1.75,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon RX 550,2073600,1,1,0,0,0,0
+277,1160,646,Lenovo,Thinkpad Yoga,2 in 1 Convertible,13.3,Windows 10,1757.42,1.37,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+278,1040,881,Lenovo,ThinkPad L570,Notebook,15.6,Windows 10,1055.0,2.38,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+279,658,542,Dell,Latitude 5580,Notebook,15.6,Windows 10,1369.0,1.93,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+280,1018,1122,Lenovo,Yoga 500-15ISK,2 in 1 Convertible,15.6,Windows 10,867.0,2.1,4,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+281,531,351,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1129.0,2.4,16,256,2048,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+282,723,886,Dell,Latitude 7280,Ultrabook,12.5,Windows 10,1690.0,1.6,8,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+283,1077,313,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Windows 10,819.0,2.3,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+284,877,1307,Asus,ZenBook UX305CA-UBM1,Ultrabook,13.3,Windows 10,729.0,1.2,8,512,0,0,0,Core M,0.9,1,1,0,0,1,0,HD Graphics 515,2073600,1,1,0,0,0,0
+285,645,39,HP,250 G6,Notebook,15.6,Windows 10,488.69,1.86,4,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+286,342,314,HP,250 G6,Notebook,15.6,Windows 10,469.0,1.86,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+287,426,585,MSI,GT73VR Titan,Gaming,17.3,Windows 10,2729.0,4.14,16,512,1024,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+288,753,716,Lenovo,Thinkpad T460p,Notebook,14.0,Windows 10,1191.0,1.8,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+289,261,678,Microsoft,Surface Laptop,Ultrabook,13.5,Windows 10 S,1867.85,1.252,8,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,Iris Plus Graphics 640,3393024,0,0,1,0,0,0
+290,395,803,Apple,"MacBook 12""",Ultrabook,12.0,Mac OS X,1165.0,0.92,8,0,0,512,0,Core M,1.2,1,1,0,0,1,0,HD Graphics 5300,3317760,1,0,0,0,1,0
+291,766,733,Lenovo,V310-15IKB (i5-7200U/4GB/1TB/No,Notebook,15.6,No OS,489.9,1.9,4,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+292,209,1242,Dell,Inspiron 5578,2 in 1 Convertible,15.0,Windows 10,509.0,2.08,4,0,500,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+293,1138,1254,HP,EliteBook 840,Ultrabook,14.0,Windows 7,2198.19,1.54,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,3686400,0,0,0,0,0,0
+294,64,864,Lenovo,ThinkPad T470p,Ultrabook,14.0,Windows 10,1903.0,1.96,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GT 940MX,2073600,1,1,0,0,0,0
+295,1161,635,Asus,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),2 in 1 Convertible,13.3,Windows 10,639.01,1.5,6,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+296,366,1136,HP,Spectre Pro,Notebook,13.3,Windows 10,1690.0,1.16,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+297,92,1104,Acer,Aspire ES1-523,Notebook,15.6,Windows 10,387.0,2.4,4,0,500,0,0,A8-Series,2.2,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+298,50,924,HP,Elitebook Folio,Ultrabook,12.5,Windows 10,3100.0,1.09,8,240,0,0,0,Core M,1.2,1,1,0,0,1,0,HD Graphics 515,8294400,0,1,1,1,0,0
+299,656,877,Toshiba,Portégé Z30-C-188,Ultrabook,13.3,Windows 10,1095.0,1.2,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+300,606,1290,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,Windows 10,229.0,1.5,2,0,0,64,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+301,503,1194,Lenovo,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Notebook,15.6,Windows 7,825.0,2.32,4,0,0,0,1024,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+302,1288,934,Dell,Vostro 3568,Notebook,15.6,Windows 10,684.99,2.18,4,0,1024,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M420,1049088,0,0,0,0,0,0
+303,1193,1316,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,14.0,Windows 10,638.0,1.8,4,128,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+304,188,656,Toshiba,Portege Z30-C-16J,Notebook,13.3,Windows 10,1213.0,1.2,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+305,945,970,Dell,XPS 13,2 in 1 Convertible,13.3,Windows 10,1899.0,1.24,8,256,0,0,0,Core i5,1.2,1,1,0,0,1,0,HD Graphics 615,2073600,0,1,1,0,0,0
+306,1024,68,HP,250 G6,Notebook,15.6,Windows 10,438.69,1.86,4,0,500,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon 520,1049088,0,0,0,0,0,0
+307,53,691,HP,17-bs000nv I3,Notebook,17.3,Windows 10,699.0,2.5,4,256,0,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 520,2073600,1,1,0,0,0,0
+308,981,632,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Windows 10,899.0,2.2,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+309,1282,1246,Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,Windows 10,1029.0,2.6,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,1,1,1,0,0,0
+310,721,1240,HP,15-bw009nv (A12-9720P/6GB/1TB/Radeon,Notebook,15.6,Windows 10,529.0,2.1,6,0,1024,0,0,A12-Series,2.7,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+311,441,1245,Dell,Vostro 3568,Notebook,15.6,Linux,521.86,2.18,4,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+312,1222,106,HP,Envy 13-ad009n,Ultrabook,13.3,Windows 10,1119.0,1.38,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+313,992,1165,Dell,Vostro 5568,Notebook,15.6,Windows 10,1009.9,2.18,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+314,1271,319,Asus,VivoBook Flip,2 in 1 Convertible,11.6,Windows 10,275.0,1.1,2,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,1,0,0,0
+315,546,1292,Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Windows 10,369.0,2.2,4,0,500,0,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+316,541,1060,HP,EliteBook 1040,Notebook,14.0,Windows 7,1469.0,1.43,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+317,915,655,Razer,Blade Pro,Gaming,14.0,Windows 10,2599.0,1.95,16,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+318,543,938,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,Windows 10,1825.0,1.37,8,512,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+319,139,523,HP,15-bs190od (i5-8250U/4GB/1TB/W10),Notebook,15.6,Windows 10,521.47,2.04,4,0,1024,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,1049088,0,0,1,0,0,0
+320,929,1285,Dell,Inspiron 3567,Notebook,15.6,Linux,805.99,2.3,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,1049088,0,0,0,0,0,0
+321,565,1145,HP,15-bs078cl (i7-7500U/8GB/2TB/W10),Notebook,15.6,Windows 10,629.0,2.04,8,0,2048,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+322,300,213,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Windows 10,597.0,2.2,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+323,960,860,HP,250 G6,Notebook,15.6,No OS,299.0,1.86,4,128,0,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+324,750,954,HP,Omen 17-W006na,Gaming,17.3,Windows 10,1399.0,2.75,8,128,1024,0,0,Core i5,2.3,1,1,0,0,0,1,GeForce GTX 965M,2073600,1,1,0,0,0,0
+325,362,763,Asus,Pro P2540UA-XO0192R,Notebook,15.6,Windows 10,849.9,2.37,4,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+326,808,706,Toshiba,Portege Z30T-C-133,Ultrabook,13.3,Windows 10,1877.0,1.36,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,1,0,0,0
+327,263,154,Dell,Inspiron 7567,Gaming,15.6,Windows 10,899.0,2.62,8,0,0,0,1024,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+328,701,750,Toshiba,Tecra X40-D-10G,Notebook,14.0,Windows 10,1535.0,1.25,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+329,549,703,Acer,TravelMate B117-M,Netbook,11.6,Windows 10,269.0,1.4,4,0,0,32,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+330,530,775,Asus,X751NV-TY001 (N4200/4GB/1TB/GeForce,Notebook,17.3,Windows 10,470.34,2.8,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,0,1,GeForce 920MX,1049088,0,0,0,0,0,0
+331,1010,723,Lenovo,Thinkpad E470,Notebook,14.0,Windows 10,857.07,1.87,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 920MX,2073600,1,1,0,0,0,0
+332,382,191,Lenovo,Legion Y520-15IKBN,Gaming,15.6,No OS,779.0,2.4,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+333,80,1172,Dell,XPS 15,Notebook,15.6,Windows 10,2250.68,2.04,8,256,0,0,0,Core i5,2.3,1,1,0,0,0,1,GeForce 960M,8294400,1,1,1,1,0,0
+334,939,798,Dell,Inspiron 7567,Gaming,15.6,Windows 10,985.0,2.62,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+335,789,1037,HP,ProBook 440,Notebook,14.0,Windows 10,1185.43,1.64,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+336,1239,1057,Lenovo,Thinkpad L560,Notebook,15.6,Windows 10,1049.6,2.3,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+337,871,357,HP,Elitebook 850,Notebook,15.6,Windows 10,1304.0,1.84,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+338,218,1025,HP,EliteBook 820,Ultrabook,12.5,Windows 10,1539.0,1.26,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+339,1182,29,Dell,Latitude 5590,Ultrabook,15.6,Windows 10,1298.0,1.88,8,512,0,0,0,Core i7,1.9,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+340,928,508,HP,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Notebook,15.6,Windows 10,618.99,1.91,8,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon 520,1049088,0,0,0,0,0,0
+341,722,1181,Lenovo,IdeaPad 310-15ISK,Notebook,15.6,Windows 10,459.0,2.2,8,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+342,126,105,Dell,Inspiron 3576,Notebook,15.6,Linux,647.0,2.2,8,0,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+343,486,395,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,Windows 10,2509.0,1.42,16,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,3686400,0,0,1,0,0,0
+344,1230,312,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,1043.0,2.2,8,256,0,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 930M,2073600,1,1,0,0,0,0
+345,823,345,Dell,Inspiron 7570,Notebook,15.6,Windows 10,1142.75,2.0,8,256,0,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+346,1300,1111,Dell,Inspiron 5567,Notebook,15.6,Windows 10,638.8,2.36,8,0,1024,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+347,1190,366,HP,250 G6,Notebook,15.6,Windows 10,439.0,1.86,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+348,401,170,Acer,Aspire 3,Notebook,15.6,Windows 10,363.51,2.1,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+349,427,1,Apple,MacBook Pro,Ultrabook,13.3,macOS,1339.69,1.37,8,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,Iris Plus Graphics 640,4096000,1,0,0,0,1,0
+350,990,1095,Lenovo,Yoga 900S-12ISK,Ultrabook,12.5,Windows 10,1399.0,0.99,8,512,0,0,0,Core M,1.2,1,1,0,0,1,0,HD Graphics 515,3686400,1,0,1,0,0,0
+351,1043,822,Dell,Vostro 5568,Notebook,15.6,Windows 10,961.0,1.98,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GT 940MX,2073600,0,1,0,0,0,0
+352,720,1031,Lenovo,ThinkPad P70,Notebook,17.3,Windows 7,2968.0,2.4,16,512,0,0,0,Core i7,2.7,1,1,0,0,0,1,Quadro 3000M,8294400,1,1,0,1,0,0
+353,973,301,Acer,Aspire A715-71G,Notebook,15.6,Linux,979.0,2.5,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+354,191,511,Lenovo,Chromebook N23,Netbook,11.6,Chrome OS,265.0,1.25,4,16,0,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+355,96,593,HP,Omen 17-AN010nv,Gaming,17.3,Windows 10,1498.0,3.78,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+356,1233,294,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,No OS,659.01,2.2,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+357,526,800,Vero,K146 (N3350/4GB/32GB/W10),Notebook,14.0,Windows 10,202.9,1.22,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,2073600,0,0,0,0,0,0
+358,1122,527,Lenovo,Legion Y720-15IKB,Gaming,15.6,Windows 10,1399.0,3.2,8,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+359,325,662,HP,250 G6,Notebook,15.6,No OS,364.9,1.86,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+360,315,1283,Lenovo,IdeaPad Y700-15ISK,Notebook,15.6,Windows 10,899.0,2.6,8,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,1,1,0,0,0,0
+361,554,624,HP,EliteBook 850,Ultrabook,15.6,Windows 10,1389.0,1.84,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+362,902,1155,HP,EliteBook 850,Ultrabook,15.6,Windows 7,2171.72,1.88,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+363,890,425,Dell,Inspiron 3567,Notebook,15.6,Windows 10,539.95,2.14,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+364,697,449,Lenovo,ThinkPad X270,Ultrabook,12.5,Windows 10,1429.0,1.36,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+365,709,1227,Asus,Rog Strix,Gaming,15.6,Windows 10,2449.0,2.2,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+366,130,683,MSI,GP62 7RDX,Gaming,15.6,Windows 10,1294.0,2.4,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+367,972,714,Acer,Spin 5,2 in 1 Convertible,13.3,Windows 10,999.0,1.6,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+368,333,789,Dell,Alienware 17,Gaming,17.3,Windows 10,3588.8,4.42,32,1024,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070M,2073600,1,1,0,0,0,0
+369,1142,535,Dell,Inspiron 3567,Notebook,15.6,Windows 10,585.0,2.3,4,0,500,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+370,934,875,Dell,XPS 13,Ultrabook,13.3,Windows 10,2240.0,1.29,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,Iris Plus Graphics 640,5760000,0,1,1,0,0,1
+371,520,265,Dell,Inspiron 5770,Notebook,17.3,Windows 10,1142.0,2.8,8,128,1024,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+372,1111,1059,HP,EliteBook 850,Notebook,15.6,Windows 10,2103.34,1.84,8,256,500,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+373,256,338,Asus,UX510UX-CN269T (i7-7500U/8GB/256GB,Notebook,14.0,Windows 10,1334.0,2.0,8,256,1024,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+374,156,605,Dell,Latitude 5289,2 in 1 Convertible,12.5,Windows 10,1670.0,1.34,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+375,305,279,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,812.0,2.2,8,0,500,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 930M,1049088,0,0,0,0,0,0
+376,169,1117,Acer,Chromebook 15,Notebook,15.6,Chrome OS,209.0,2.2,4,16,0,0,0,Celeron Dual Core,1.5,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+377,1254,969,Dell,Alienware 17,Gaming,17.3,Windows 10,3154.0,4.36,16,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,8294400,1,1,0,1,0,0
+378,1191,586,Dell,Inspiron 3567,Notebook,15.6,Linux,749.01,2.2,8,256,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+379,437,255,Dell,Inspiron 5579,2 in 1 Convertible,15.6,Windows 10,819.0,2.08,8,0,1024,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+380,1177,1156,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,Windows 10,2440.0,2.8,16,512,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,3686400,1,0,1,0,0,0
+381,377,636,Dell,XPS 15,Notebook,15.6,Windows 10,1820.0,2.0,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+382,667,742,Lenovo,ThinkPad 13,Notebook,13.3,Windows 10,960.0,1.44,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+383,616,700,HP,ZBook 17,Workstation,17.3,Windows 10,1907.99,3.14,8,0,500,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M1200,2073600,0,1,0,0,0,0
+384,1103,771,Google,Pixelbook (Core,Ultrabook,12.3,Chrome OS,1559.0,1.1,8,256,0,0,0,Core i5,1.2,1,1,0,0,1,0,HD Graphics 615,3840000,0,0,1,0,0,0
+385,2,1013,HP,EliteBook 840,Ultrabook,14.0,Windows 10,2089.0,1.48,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+386,583,400,MSI,Leopard GP72M,Gaming,17.3,Windows 10,1349.0,2.7,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+387,1257,842,Lenovo,Thinkpad T460,Notebook,14.0,Windows 10,1186.0,1.7,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+388,848,268,Dell,Vostro 3568,Notebook,15.6,Windows 10,657.0,2.18,4,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+389,112,8,Apple,Macbook Air,Ultrabook,13.3,macOS,1158.7,1.34,8,0,0,256,0,Core i5,1.8,1,1,0,0,1,0,HD Graphics 6000,1296000,0,0,0,0,0,0
+390,1013,52,Acer,Aspire A515-51G,Notebook,15.6,Windows 10,841.0,2.2,8,256,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+391,1203,446,Asus,VivoBook Max,Notebook,15.6,Linux,559.0,2.0,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+392,1166,38,Dell,Inspiron 5770,Notebook,17.3,Windows 10,979.0,2.8,8,128,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+393,435,194,Lenovo,Thinkpad Yoga,2 in 1 Convertible,14.0,Windows 10,2824.0,1.42,16,1024,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,3686400,0,0,1,0,0,0
+394,633,721,Asus,VivoBook E403NA,Notebook,14.0,Windows 10,298.0,1.5,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,2073600,0,1,0,0,0,0
+395,43,369,HP,250 G6,Notebook,15.6,Windows 10,639.0,1.86,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+396,825,873,Toshiba,Portege X30-D-10X,Notebook,13.3,Windows 10,1285.0,1.05,4,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+397,329,306,Asus,Rog GL702VS-GC095T,Gaming,17.3,Windows 10,2122.0,2.9,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+398,602,1184,Lenovo,ThinkPad T570,Notebook,15.6,Windows 10,1390.0,1.95,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+399,878,502,Lenovo,Thinkpad X260,Ultrabook,12.5,Windows 10,1099.0,1.3,8,180,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,1,0,0,0,0,0
+400,70,570,Lenovo,Thinkpad P71,Notebook,17.3,Windows 10,2999.0,3.4,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M620M,2073600,1,1,0,0,0,0
+401,770,87,Dell,Inspiron 7577,Gaming,15.6,Windows 10,1349.0,2.65,16,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+402,965,1200,Dell,Vostro 5568,Notebook,15.6,Linux,895.01,1.98,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GT 940MX,2073600,0,1,0,0,0,0
+403,570,698,Acer,Chromebook 14,Notebook,14.0,Chrome OS,375.0,1.45,4,0,0,32,0,Celeron Dual Core,1.6,2,1,0,0,1,0,HD Graphics 510,1049088,0,0,0,0,0,0
+404,282,1304,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,Windows 10,229.0,1.5,2,0,0,64,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+405,7,234,HP,ZBook 15u,Notebook,15.6,Windows 10,1269.0,1.9,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,FirePro W4190M ,2073600,0,1,0,0,0,0
+406,120,148,Asus,ZenBook UX430UA,Ultrabook,14.0,Windows 10,1099.0,1.25,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+407,189,90,Asus,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Gaming,15.6,Windows 10,1449.0,2.2,16,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+408,301,9,Asus,ZenBook UX430UN,Ultrabook,14.0,Windows 10,1495.0,1.3,16,512,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce MX150,2073600,0,1,0,0,0,0
+409,490,11,HP,250 G6,Notebook,15.6,No OS,393.9,1.86,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+410,913,1299,Dell,Inspiron 3567,Notebook,15.6,Linux,805.99,2.3,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,1049088,0,0,0,0,0,0
+411,296,682,HP,Pavilion X360,2 in 1 Convertible,14.0,Windows 10,699.0,1.63,4,128,0,0,0,Core i3,2.4,1,1,0,0,0,1,GeForce 940MX,2073600,1,1,1,0,0,0
+412,1078,1262,HP,EliteBook 840,Notebook,14.0,Windows 7,1099.99,1.54,4,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+413,577,1126,Dell,Vostro 3559,Notebook,15.6,Windows 7,769.15,2.24,4,0,500,0,0,Core i5,2.3,1,1,0,1,0,0,Radeon R5 M315,1049088,0,0,0,0,0,0
+414,452,1129,Lenovo,Yoga Book,2 in 1 Convertible,10.1,Android,549.0,0.69,4,0,0,64,0,Atom x5-Z8550,1.44,1,1,0,0,1,0,HD Graphics 400,2304000,1,0,1,0,0,0
+415,841,1049,HP,EliteBook 820,Ultrabook,12.5,Windows 10,1349.0,1.26,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+416,356,431,Dell,Alienware 17,Gaming,17.3,Windows 10,2799.0,4.42,16,256,1024,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1070,3686400,1,0,0,0,0,0
+417,267,370,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,No OS,499.0,2.2,8,256,0,0,0,Core i3,2.0,1,1,0,0,0,1,GeForce 920MX ,1049088,0,0,0,0,0,0
+418,425,1113,HP,250 G5,Notebook,15.6,Windows 10,500.0,1.96,4,0,1024,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,0,0,0,0
+419,465,964,HP,ZBook Studio,Workstation,15.6,Windows 10,2249.0,2.0,8,8,0,0,0,Core i7,2.7,1,1,0,0,0,1,Quadro M1000M,2073600,1,1,0,0,0,0
+420,755,174,Huawei,MateBook X,Ultrabook,13.0,Windows 10,1349.0,1.05,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,3110400,1,1,0,0,0,0
+421,754,207,Lenovo,Legion Y720-15IKB,Gaming,15.6,Windows 10,1749.0,3.2,16,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+422,598,1023,HP,Probook 440,Notebook,14.0,Windows 10,684.0,1.64,4,0,500,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+423,48,228,HP,ProBook 450,Notebook,15.6,Windows 10,794.0,2.1,8,0,1024,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+424,434,786,Acer,Swift 3,Notebook,14.0,Windows 10,636.0,1.8,4,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+425,328,613,Toshiba,Tecra Z50-C-144,Notebook,15.6,Windows 10,1399.0,2.2,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,0,0,0,0
+426,1051,437,Samsung,Chromebook 3,Netbook,11.6,Chrome OS,269.0,1.15,4,0,0,16,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+427,248,163,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,447.0,2.1,4,0,500,0,0,Core i3,2.2,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+428,100,1003,Dell,Latitude 5480,Notebook,14.0,Windows 10,1119.0,1.6,8,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620 ,2073600,0,1,0,0,0,0
+429,575,1214,Lenovo,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,No OS,368.0,1.9,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,1049088,0,0,0,0,0,0
+430,561,225,Dell,Inspiron 3576,Notebook,15.6,Linux,677.35,2.2,8,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+431,814,1007,Lenovo,ThinkPad T560,Notebook,15.6,Windows 10,1349.0,2.3,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+432,1028,63,Lenovo,IdeaPad 520S-14IKB,Notebook,14.0,No OS,599.0,1.7,8,256,0,0,0,Core i3,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+433,453,1001,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1189.0,2.5,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+434,68,619,Dell,Vostro 3568,Notebook,15.6,Linux,443.9,2.18,4,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+435,729,363,Dell,Inspiron 7577,Gaming,15.6,Windows 10,999.0,2.65,8,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+436,759,948,Toshiba,Tecra Z40-C-12X,Notebook,14.0,Windows 10,1105.0,1.47,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,0,0,0,0
+437,359,751,Lenovo,Flex 5,2 in 1 Convertible,14.0,Windows 10,999.0,1.7,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+438,493,445,Lenovo,ThinkPad T470s,Ultrabook,14.0,Windows 10,2382.0,1.32,24,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,3686400,0,0,0,0,0,0
+439,692,13,Apple,MacBook Pro,Ultrabook,15.4,macOS,2439.97,1.83,16,256,0,0,0,Core i7,2.8,1,1,0,1,0,0,Radeon Pro 555,5184000,1,0,0,0,1,0
+440,24,1174,MSI,GP72M 7REX,Gaming,17.3,Windows 10,1492.8,2.7,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+441,856,208,Dell,Precision 7520,Workstation,15.6,Windows 10,3055.0,2.8,16,256,1024,0,0,Xeon E3-1505M V6,3.0,1,1,0,0,0,1,Quadro M1200,8294400,0,1,0,1,0,0
+442,704,1310,Dell,Inspiron 3552,Notebook,15.6,Windows 10,379.0,2.2,2,0,500,0,0,Celeron Dual Core N3050,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+443,1171,1093,Lenovo,V110-15ISK (i5-6200U/4GB/500GB/W10),Notebook,15.6,Windows 10,540.0,2.1,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+444,354,216,Asus,ROG GL703VD-GC028T,Gaming,17.3,Windows 10,1407.0,2.9,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+445,590,844,Dell,Alienware 15,Gaming,15.6,Windows 10,2774.63,3.21,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+446,413,640,Lenovo,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Notebook,15.6,Windows 10,829.0,1.8,4,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+447,1157,99,Dell,Inspiron 3567,Notebook,15.6,Linux,485.0,2.2,4,256,0,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+448,0,972,Dell,XPS 13,Ultrabook,13.3,Windows 10,1268.0,1.3,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,5760000,0,1,0,0,0,1
+449,626,672,MSI,GP72VR Leopard,Gaming,17.3,Windows 10,1486.77,2.7,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+450,677,138,HP,Probook 440,Notebook,14.0,Windows 10,988.0,1.63,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+451,637,73,Dell,Inspiron 5370,Ultrabook,13.3,Windows 10,955.0,1.4,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+452,1211,1069,HP,ProBook 650,Notebook,15.6,Windows 10,705.15,2.31,4,0,500,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+453,245,454,Dell,Precision 3520,Workstation,15.6,Windows 10,1993.0,2.23,8,0,1024,64,0,Xeon E3-1505M V6,3.0,1,1,0,0,0,1,Quadro M620,2073600,0,1,0,0,0,0
+454,1094,1302,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,14.0,Windows 10,638.0,1.8,4,128,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+455,388,494,Dell,XPS 15,Notebook,15.6,Windows 10,1899.0,2.06,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+456,1280,249,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,Windows 10,1079.0,1.38,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+457,593,514,Acer,Aspire A515-51G-59QF,Notebook,15.6,Windows 10,613.0,2.2,4,0,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+458,352,48,Asus,Rog Strix,Gaming,17.3,Windows 10,1299.0,3.2,8,256,1024,0,0,Ryzen,3.0,1,0,1,1,0,0,Radeon RX 580,2073600,0,1,0,0,0,0
+459,955,14,Dell,Inspiron 3567,Notebook,15.6,Windows 10,498.9,2.2,4,256,0,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+460,713,404,Lenovo,ThinkPad L470,Notebook,14.0,Windows 10,938.0,1.9,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+461,379,348,HP,ProBook 450,Notebook,15.6,Windows 10,716.0,2.1,8,0,1024,0,0,Core i3,2.4,1,1,0,0,0,1,GeForce 930MX ,2073600,1,1,0,0,0,0
+462,16,589,HP,ProBook 430,Notebook,13.3,Windows 10,719.0,1.49,4,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+463,1005,1048,HP,EliteBook 850,Notebook,15.6,Windows 10,1228.99,1.84,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+464,1053,450,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Windows 10,349.0,2.2,4,128,0,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,2073600,0,1,0,0,0,0
+465,669,807,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,Windows 10,1349.0,1.38,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+466,402,1077,Dell,Inspiron 5567,Notebook,15.6,Windows 10,989.99,2.32,16,0,2048,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+467,849,1211,Apple,"MacBook 12""",Ultrabook,12.0,Mac OS X,1163.0,0.92,8,0,0,256,0,Core M,1.1,1,1,0,0,1,0,HD Graphics 5300,3317760,1,0,0,0,1,0
+468,323,5,Apple,MacBook Pro,Ultrabook,13.3,macOS,1803.6,1.37,8,256,0,0,0,Core i5,3.1,1,1,0,0,1,0,Iris Plus Graphics 650,4096000,1,0,0,0,1,0
+469,615,1103,HP,Chromebook 13,Notebook,13.3,Chrome OS,615.0,1.29,4,0,0,32,0,Pentium Dual Core,1.5,2,1,0,0,1,0,HD Graphics 515,5760000,0,1,0,0,0,1
+470,389,580,Lenovo,Thinkpad E570,Notebook,15.6,Windows 10,830.0,2.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+471,1084,409,Lenovo,ThinkPad E580,Notebook,15.6,Windows 10,1144.5,2.1,8,256,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon RX 550,2073600,1,1,0,0,0,0
+472,1261,317,MSI,GE63VR 7RF,Gaming,15.6,Windows 10,2099.0,2.8,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+473,562,863,Dell,Inspiron 5767,Notebook,17.3,Linux,865.0,2.83,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+474,768,392,Lenovo,Ideapad 510S-13IKB,Notebook,13.3,Windows 10,549.0,1.5,4,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+475,164,349,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,Windows 10,2099.0,1.4,16,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+476,525,847,Lenovo,N42-20 Chromebook,Notebook,14.0,Chrome OS,325.0,1.5,4,0,0,16,0,Celeron Quad Core N3160,1.6,4,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+477,134,42,Dell,Inspiron 7577,Gaming,15.6,Windows 10,1499.0,2.65,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+478,743,541,Asus,ROG Strix,Gaming,15.6,Windows 10,1649.0,2.3,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+479,821,557,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Windows 10,499.0,2.2,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+480,836,937,Toshiba,Tecra Z50-C-140,Notebook,15.6,Windows 10,1975.0,2.4,16,256,0,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce 930M,2073600,1,1,0,0,0,0
+481,824,462,Dell,Inspiron 3168,2 in 1 Convertible,11.6,Windows 10,479.0,1.47,4,0,500,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,1,0,0,0
+482,464,987,Toshiba,Tecra A40-C-1DF,Notebook,14.0,Windows 10,1180.0,1.95,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+483,410,779,Dell,Inspiron 5567,Notebook,15.6,Windows 10,1181.27,2.3,16,256,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+484,1302,403,Lenovo,ThinkPad E580,Notebook,15.6,Windows 10,1229.56,2.1,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon RX 550,2073600,1,1,0,0,0,0
+485,129,892,HP,Pavilion x360,2 in 1 Convertible,15.6,Windows 10,684.8,2.3,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+486,700,1140,Lenovo,ThinkPad Yoga,2 in 1 Convertible,14.0,Windows 10,1669.0,1.8,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+487,127,743,Lenovo,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Notebook,15.6,Windows 10,779.0,1.85,4,0,1024,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+488,1228,304,Asus,ZenBook UX530UQ-PRO,Ultrabook,15.6,Windows 10,1468.0,1.63,16,512,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+489,203,195,Vero,K147 (N3350/4GB/32GB/FHD/W10),Notebook,14.0,Windows 10,260.0,1.3,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,2073600,1,1,0,0,0,0
+490,262,334,HP,Elitebook 820,Ultrabook,12.5,Windows 10,1335.0,1.26,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+491,883,986,Dell,Alienware 17,Gaming,17.3,Windows 10,2800.0,4.42,32,256,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+492,976,793,Lenovo,ThinkPad T470s,Ultrabook,14.0,Windows 10,2299.0,1.7,16,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+493,484,1207,Acer,Predator G9-793,Gaming,17.3,Windows 10,2599.0,4.2,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+494,148,440,Lenovo,Thinkpad T570,Workstation,15.6,Windows 10,2445.0,2.3,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce 940MX,8294400,1,1,0,1,0,0
+495,893,707,HP,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Notebook,15.6,Windows 10,689.0,2.1,4,0,500,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+496,798,86,Acer,Aspire 3,Notebook,15.6,Windows 10,395.0,2.1,4,0,1024,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+497,219,354,Asus,VivoBook Flip,2 in 1 Convertible,11.6,Windows 10,375.0,1.5,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,1,0,0,0
+498,969,218,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,No OS,549.0,2.2,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+499,1046,467,Acer,Aspire E5-576G,Notebook,15.6,Windows 10,544.0,2.23,4,0,1024,0,0,Core i3,2.0,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+500,252,618,Dell,Inspiron 7559,Gaming,15.6,Windows 10,879.01,2.59,16,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960<U+039C>,2073600,0,1,0,0,0,0
+501,796,692,Lenovo,Yoga 730,2 in 1 Convertible,13.3,Windows 10,1499.0,1.19,8,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+502,220,335,Dell,XPS 15,Notebook,15.6,Windows 10,2639.0,2.06,32,1024,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,8294400,0,1,1,1,0,0
+503,882,126,HP,Probook 470,Notebook,17.3,Windows 10,1271.0,2.5,16,512,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce 930MX ,2073600,0,1,0,0,0,0
+504,1016,832,MSI,GL62M 7RD,Gaming,15.6,Windows 10,1199.0,2.4,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+505,403,377,Acer,Aspire 3,Notebook,15.6,Windows 10,426.0,2.1,4,128,0,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+506,292,904,Lenovo,ThinkPad T470s,Ultrabook,14.0,Windows 10,1799.0,1.32,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+507,571,1178,Lenovo,ThinkPad T460,Ultrabook,14.0,Windows 7,1499.0,1.7,8,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+508,360,266,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,No OS,444.0,2.2,4,256,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+509,1026,215,Acer,Aspire 7,Notebook,15.6,Linux,779.0,2.4,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+510,141,777,Samsung,Notebook 9,Ultrabook,13.3,Windows 10,1599.0,1.31,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+511,1065,177,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,489.0,2.0,4,0,500,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+512,471,543,Dell,Inspiron 5570,Notebook,15.6,Windows 10,797.41,2.2,8,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+513,1017,988,Asus,Rog Strix,Gaming,17.3,Windows 10,2049.9,2.73,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+514,600,383,Dell,Inspiron 3552,Notebook,15.6,Windows 10,309.0,1.8,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+515,1011,1233,Acer,C740-C9QX (3205U/2GB/32GB/Chrome,Netbook,11.6,Chrome OS,174.0,1.3,2,32,0,0,0,Celeron Dual Core,1.5,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+516,643,390,Asus,Zenbook Flip,Ultrabook,13.3,Windows 10,1748.9,1.1,16,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+517,553,1108,Dell,Inspiron 5370,Ultrabook,13.3,Windows 10,818.35,1.4,4,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+518,1086,310,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,No OS,359.99,2.2,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+519,1059,623,Dell,Vostro 3568,Notebook,15.6,Linux,569.0,2.18,4,128,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M420,2073600,0,1,0,0,0,0
+520,288,489,HP,ProBook 430,Notebook,13.3,Windows 10,726.0,1.49,4,128,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+521,230,1169,HP,15-BA015wm (E2-7110/4GB/500GB/W10),Notebook,15.6,Windows 10,297.0,1.86,4,0,500,0,0,E-Series,1.8,1,0,1,1,0,0,Radeon R2 Graphics,1049088,0,0,0,0,0,0
+522,611,1028,HP,Probook 430,Notebook,13.3,Windows 10,800.0,1.49,4,0,500,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+523,911,236,HP,15-rb013nv (E2-9000e/4GB/500GB/W10),Notebook,15.6,Windows 10,330.0,2.1,4,0,500,0,0,E-Series,1.5,1,0,1,1,0,0,Radeon R2,1049088,0,0,0,0,0,0
+524,1212,607,HP,EliteBook 850,Notebook,15.6,Windows 10,1219.0,1.84,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+525,1139,961,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,No OS,685.0,2.2,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+526,1226,238,Dell,Vostro 5468,Notebook,14.0,Windows 10,859.0,1.6,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+527,418,1036,HP,Spectre 13-V100nv,Notebook,13.3,Windows 10,1149.0,1.11,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+528,162,805,Asus,R417NA-RS01 (N3350/4GB/32GB/W10),Notebook,14.0,Windows 10,299.0,1.63,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+529,49,436,Mediacom,FlexBook Edge,2 in 1 Convertible,11.6,Windows 10,299.0,1.16,4,32,0,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,2073600,1,1,1,0,0,0
+530,980,217,HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Notebook,15.6,No OS,349.0,2.1,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+531,970,1073,MSI,GT62VR 6RD,Gaming,15.6,Windows 10,1819.0,2.94,16,256,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+532,367,66,HP,250 G6,Notebook,15.6,Windows 10,690.0,1.86,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+533,239,12,HP,250 G6,Notebook,15.6,No OS,344.99,1.86,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+534,778,1167,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,Windows 10,2339.0,1.27,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,3686400,1,0,1,0,0,0
+535,17,1138,Dell,Latitude E5570,Notebook,15.6,Linux,523.63,2.09,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+536,784,1120,Dell,Latitude E5270,Ultrabook,12.5,Windows 7,1413.1,1.5,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+537,1121,160,Asus,ZenBook Flip,2 in 1 Convertible,13.3,Windows 10,1315.0,1.1,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+538,422,21,Asus,Vivobook E200HA,Netbook,11.6,Windows 10,191.9,0.98,2,0,0,32,0,Atom x5-Z8350,1.44,1,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+539,1042,435,HP,Omen 17-w207nv,Gaming,17.3,Windows 10,1999.0,3.35,12,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+540,842,812,Dell,XPS 15,Notebook,15.6,Windows 10,1749.0,2.06,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,8294400,0,1,1,1,0,0
+541,1260,829,Lenovo,V110-15ISK (i3-6006U/4GB/500GB/W10),Notebook,15.6,Windows 10,489.9,2.1,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+542,460,809,HP,ZBook 17,Workstation,15.6,Windows 10,2064.9,3.14,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M2200,2073600,0,1,0,0,0,0
+543,985,100,Asus,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Notebook,15.6,Windows 10,577.0,2.0,6,256,0,0,0,Core i3,2.4,1,1,0,0,0,1,GeForce 920M,2073600,0,1,0,0,0,0
+544,614,1196,MSI,GS60 Ghost,Gaming,15.6,Windows 10,2153.37,1.91,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 970M,2073600,0,1,0,0,0,0
+545,176,630,Fujitsu,LifeBook A557,Notebook,15.6,Windows 10,799.0,2.2,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+546,167,107,Microsoft,Surface Laptop,Ultrabook,13.5,Windows 10 S,1340.0,1.252,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,3393024,0,0,1,0,0,0
+547,78,575,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Windows 10,344.0,2.2,4,0,500,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,2073600,0,1,0,0,0,0
+548,1201,516,Lenovo,Legion Y520-15IKBN,Gaming,15.6,No OS,1149.0,2.4,8,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+549,676,252,Asus,Rog G701VIK-BA060T,Gaming,17.3,Windows 10,2999.0,3.6,16,256,0,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1080,2073600,0,1,0,0,0,0
+550,1131,367,Asus,Zenbook UX410UA-GV027T,Notebook,14.0,Windows 10,945.0,2.0,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+551,1220,1236,Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,Windows 10,1272.0,2.6,8,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960<U+039C>,2073600,1,1,0,0,0,0
+552,511,1314,HP,Stream 11-Y000na,Netbook,11.6,Windows 10,209.0,1.17,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+553,1050,1270,Lenovo,IdeaPad 310-15ISK,Notebook,15.6,Windows 10,569.0,2.4,6,128,0,0,0,Core i3,2.3,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+554,574,16,Apple,MacBook Pro,Ultrabook,13.3,macOS,1518.55,1.37,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,Iris Plus Graphics 640,4096000,1,0,0,0,1,0
+555,1108,1114,Asus,G752VY-GC162T (i7-6700HQ/16GB/1TB,Gaming,17.3,Windows 10,2299.0,4.3,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 980M,2073600,1,1,0,0,0,0
+556,331,993,Asus,Rog GL753VE-DS74,Gaming,17.3,Windows 10,1749.0,2.99,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+557,380,768,Acer,Aspire 3,Notebook,15.6,Windows 10,599.0,2.1,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+558,94,835,Asus,ZenBook Flip,2 in 1 Convertible,13.3,Windows 10,1358.0,1.1,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+559,1091,831,Lenovo,Thinkpad X1,Ultrabook,14.0,Windows 10,2499.0,1.13,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+560,533,673,Toshiba,Satellite Pro,Notebook,15.6,Windows 10,498.0,2.1,4,128,0,0,0,Core i3,2.1,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+561,1093,47,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,No OS,369.0,2.2,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+562,31,88,HP,Pavilion 15-CK000nv,Ultrabook,15.6,Windows 10,699.0,1.83,8,256,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce GTX 940MX,2073600,1,1,0,0,0,0
+563,522,96,Asus,Zenbook UX430UA,Ultrabook,14.0,Windows 10,1049.0,1.25,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+564,470,788,Asus,Vivobook Max,Notebook,15.6,Windows 10,581.9,2.0,8,128,0,0,0,Pentium Dual Core N4200,1.1,2,1,0,0,1,0,HD Graphics 505,2073600,0,0,0,0,0,0
+565,950,240,Dell,Inspiron 5567,Notebook,15.6,Linux,899.0,2.36,16,256,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+566,1165,967,Asus,Chromebook Flip,2 in 1 Convertible,12.5,Chrome OS,1159.0,1.2,8,0,0,64,0,Core M M7-6Y75,1.2,1,1,0,0,1,0,HD Graphics 515,2073600,0,1,0,0,0,0
+567,1170,1151,HP,ZBook 17,Workstation,17.3,Windows 7,3949.4,3.0,8,256,0,0,0,Core i7,2.6,1,1,0,0,0,1,Quadro M3000M,2073600,1,1,0,0,0,0
+568,735,458,Dell,Precision 3520,Workstation,15.6,Windows 10,1975.0,2.17,16,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,Quadro M620,2073600,1,1,0,0,0,0
+569,523,112,Lenovo,Thinkpad T470,Notebook,14.0,Windows 10,1480.0,1.58,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+570,681,1170,Lenovo,B51-80 (i5-6200U/8GB/1TB/Radeon,Notebook,15.6,No OS,599.0,2.32,8,0,1024,0,0,Core i5,2.3,1,1,0,1,0,0,Radeon R5 M330,2073600,0,1,0,0,0,0
+571,694,754,Samsung,Notebook 9,Ultrabook,13.3,Windows 10,1649.0,0.81,16,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+572,728,15,Apple,"MacBook 12""",Ultrabook,12.0,macOS,1262.4,0.92,8,256,0,0,0,Core M m3,1.2,1,1,0,0,1,0,HD Graphics 615,3317760,1,0,0,0,1,0
+573,932,30,HP,ProBook 470,Notebook,17.3,Windows 10,896.0,2.5,8,0,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+574,873,340,Asus,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Gaming,15.6,Windows 10,999.0,2.5,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+575,144,199,HP,ProBook 470,Notebook,17.3,Windows 10,914.0,2.5,8,0,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce 930MX,2073600,1,1,0,0,0,0
+576,378,614,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Windows 10,564.0,2.4,6,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+577,982,251,HP,15-bs015dx (i5-7200U/8GB/1TB/W10),Notebook,15.6,Windows 10,559.0,2.04,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+578,341,533,Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Windows 10,799.0,2.2,4,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 920MX,2073600,0,1,0,0,0,0
+579,311,276,Asus,Rog Strix,Gaming,17.3,Windows 10,1549.0,3.2,16,256,1024,0,0,Ryzen,3.0,1,0,1,1,0,0,Radeon RX 580,2073600,0,1,0,0,0,0
+580,953,852,HP,ProBook 470,Notebook,17.3,Windows 10,910.0,2.63,8,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 930MX,1440000,0,0,0,0,0,0
+581,232,671,HP,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Notebook,15.6,Windows 10,539.0,2.04,6,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,2073600,0,0,0,0,0,0
+582,983,1006,Lenovo,V110-15IAP (N3350/4GB/128GB/No,Notebook,15.6,No OS,270.62,1.9,4,128,0,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+583,165,1090,Lenovo,IdeaPad 300-17ISK,Notebook,17.3,Windows 10,659.0,3.0,8,0,1024,0,0,Core i5,2.3,1,1,0,1,0,0,Radeon R5 M330,1440000,0,0,0,0,0,0
+584,538,711,Lenovo,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,Windows 10,621.45,2.1,4,0,2048,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+585,1096,201,HP,ProBook 430,Notebook,13.3,Windows 10,959.0,1.49,8,512,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+586,449,271,Asus,ZenBook Flip,2 in 1 Convertible,13.3,Windows 10,1499.0,1.1,8,1024,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,1,0,0,0
+587,1290,297,HP,17-BS037cl (i3-6006U/8GB/1TB/W10),Notebook,17.3,Windows 10,489.0,2.54,8,0,1024,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1440000,0,0,0,0,0,0
+588,665,139,Lenovo,V110-15IAP (N3350/4GB/1TB/No,Notebook,15.6,No OS,252.36,1.9,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+589,693,182,Lenovo,V310-15IKB (i5-7200U/8GB/1TB,Notebook,15.6,Windows 10,813.0,1.9,8,128,1024,0,0,Core i5,2.5,1,1,0,1,0,0,R17M-M1-70,2073600,0,1,0,0,0,0
+590,270,695,Dell,Inspiron 3567,Notebook,15.6,Windows 10,545.67,2.2,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M430,1049088,0,0,0,0,0,0
+591,519,451,HP,Omen 15-AX205na,Gaming,15.6,Windows 10,1099.0,2.2,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+592,710,975,Lenovo,ThinkPad X270,Ultrabook,12.5,Windows 10,1760.0,1.36,8,256,0,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+593,236,84,HP,ProBook 440,Notebook,14.0,Windows 10,860.0,1.63,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+594,1194,277,Dell,Inspiron 3576,Notebook,15.6,Linux,735.07,2.14,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+595,1075,1055,Vero,V142 (X5-Z8350/2GB/32GB/W10),Notebook,14.0,Windows 10,210.8,1.45,2,0,0,32,0,Atom X5-Z8350,1.44,1,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+596,498,1144,HP,Omen -,Gaming,17.3,Windows 10,1129.0,3.35,8,128,1024,0,0,Core i5,2.3,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+597,135,513,Asus,ZenBook UX510UX-CN211T,Notebook,15.6,Windows 10,1224.0,2.0,8,256,1024,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+598,1241,307,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,Windows 10,649.0,2.8,6,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 940M,1440000,0,0,0,0,0,0
+599,67,945,HP,EliteBook 820,Ultrabook,12.5,Windows 10,1579.0,1.26,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+600,964,562,Asus,A541NA-GO342 (N3350/4GB/500GB/Linux),Notebook,15.6,Linux,224.0,2.0,4,0,500,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+601,39,374,Dell,Inspiron 5567,Notebook,15.6,Windows 10,899.0,2.33,8,256,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+602,703,158,HP,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Notebook,15.6,Windows 10,619.0,1.91,6,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+603,568,960,Dell,Latitude 7280,Ultrabook,12.5,Windows 10,1472.2,1.36,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics,2073600,0,1,1,0,0,0
+604,563,730,Lenovo,ThinkPad T470s,Ultrabook,14.0,Windows 10,1499.0,1.32,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+605,591,802,Lenovo,Yoga 510-15IKB,2 in 1 Convertible,15.6,Windows 10,959.0,2.08,8,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R7 M460,2073600,0,1,1,0,0,0
+606,921,250,Dell,Inspiron 5570,Notebook,15.6,Windows 10,985.0,2.2,8,128,2048,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+607,481,71,Asus,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Gaming,17.3,Linux,949.0,3.0,12,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+608,1140,663,Toshiba,Tecra A50-D-11M,Notebook,15.6,Windows 10,1064.0,2.0,8,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+609,249,483,Dell,Precision M5520,Workstation,15.6,Windows 10,2408.0,1.78,8,256,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M1200,2073600,0,1,0,0,0,0
+610,510,135,Acer,Swift 3,Ultrabook,14.0,Windows 10,884.0,1.6,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+611,455,1250,Dell,Inspiron 3567,Notebook,15.6,Windows 10,469.01,2.3,8,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+612,767,977,Toshiba,Portege X20W-D-10V,Ultrabook,12.5,Windows 10,1790.0,1.1,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+613,225,1127,Lenovo,V110-15ISK (i3-6006U/4GB/128GB/W10),Notebook,15.6,Windows 10,429.0,2.1,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+614,963,773,Dell,Latitude 3380,Notebook,13.3,Windows 10,849.0,1.65,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+615,208,1288,Lenovo,Yoga 500-14ISK,2 in 1 Convertible,14.0,Windows 10,638.0,1.8,4,128,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,1,0,0,0
+616,150,58,Asus,VivoBook Max,Notebook,15.6,Windows 10,586.19,2.0,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+617,850,530,HP,ProBook 440,Notebook,15.6,Windows 10,689.0,1.63,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+618,196,680,Lenovo,Yoga 720-13IKB,2 in 1 Convertible,13.3,Windows 10,1034.0,1.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+619,1031,981,HP,ProBook 450,Notebook,15.6,Windows 10,685.0,2.04,4,0,500,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+620,597,1179,MSI,GS40 Phantom,Gaming,14.0,Windows 10,1769.0,1.7,16,256,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 970M,2073600,0,1,0,0,0,0
+621,105,978,HP,ProBook 450,Notebook,15.6,Windows 10,846.5,2.04,8,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 930MX,1049088,0,0,0,0,0,0
+622,646,415,Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Windows 10,409.0,2.2,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+623,843,887,Asus,X541NA-GO121 (N4200/4GB/1TB/Linux),Notebook,15.6,Linux,398.99,2.0,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+624,303,380,Dell,Inspiron 5379,2 in 1 Convertible,13.3,Windows 10,869.01,1.62,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,1,0,0,0
+625,1,1085,Dell,Latitude 3570,Notebook,15.6,Windows 10,481.98,2.06,4,0,500,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+626,815,1294,Dell,Inspiron 3567,Notebook,15.6,Windows 10,459.0,2.3,6,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+627,444,421,Asus,ZenBook Flip,2 in 1 Convertible,13.3,Windows 10,928.0,1.27,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+628,1149,505,Lenovo,ThinkPad 13,Notebook,13.3,Windows 10,949.0,1.4,8,256,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+629,678,262,HP,Envy 17-U275cl,Notebook,17.3,Windows 10,1059.0,2.9,16,0,1024,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+630,271,1150,Lenovo,IdeaPad 500-15ISK,Notebook,15.6,Windows 10,1099.0,2.5,16,0,0,0,1024,Core i7,2.5,1,1,0,1,0,0,Radeon R7 M360,2073600,0,1,0,0,0,0
+631,607,746,MSI,GS63VR 7RF,Gaming,15.6,Windows 10,2094.48,1.8,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+632,731,190,Dell,XPS 15,Notebook,15.6,Windows 10,2397.0,2.06,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,8294400,0,1,1,1,0,0
+633,642,296,Asus,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Gaming,17.3,Windows 10,1187.0,3.0,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+634,121,95,Dell,Inspiron 7577,Gaming,15.6,Windows 10,1195.0,2.65,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+635,499,140,Asus,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Gaming,17.3,Windows 10,938.0,3.0,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+636,997,1301,Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,Windows 10,720.32,2.2,4,0,500,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 920M,1049088,0,0,0,0,0,0
+637,1270,708,Dell,Inspiron 5577,Gaming,15.6,Windows 10,819.0,2.56,8,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+638,1301,674,Dell,Latitude 3580,Notebook,15.6,Windows 10,955.0,2.06,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+639,344,1183,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1498.0,2.62,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,8294400,0,1,0,1,0,0
+640,748,647,Dell,XPS 15,Notebook,15.6,Windows 10,2399.0,2.06,16,1024,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,8294400,0,1,1,1,0,0
+641,786,466,HP,17-BS092ND (i3-6006U/8GB/256GB/W10),Notebook,17.3,Windows 10,639.9,2.5,8,256,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1440000,0,0,0,0,0,0
+642,163,1208,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,819.0,2.4,8,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+643,187,469,Asus,Pro P2540UA-AB51,Notebook,15.6,Windows 10,749.0,2.37,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+644,550,1275,Dell,Vostro 3568,Notebook,15.6,Windows 10,490.0,2.29,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+645,696,147,HP,255 G6,Notebook,15.6,Windows 10,369.0,1.86,4,256,0,0,0,A6-Series,2.5,1,0,1,1,0,0,Radeon R4 Graphics,1049088,0,0,0,0,0,0
+646,1294,1210,HP,250 G6,Notebook,15.6,Windows 10,485.0,1.86,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+647,1113,67,Asus,ZenBook Pro,Ultrabook,15.6,Windows 10,1983.0,1.8,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+648,1186,856,HP,Chromebook X360,2 in 1 Convertible,11.6,Chrome OS,615.0,1.4,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,1,0,0,0
+649,174,722,Dell,Latitude 5580,Notebook,15.6,Windows 10,1426.66,1.93,16,512,0,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+650,1195,1160,HP,Spectre Pro,2 in 1 Convertible,13.3,Windows 10,1629.0,1.48,8,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,1,0,0,0
+651,576,747,Acer,Aspire ES1-572,Notebook,15.6,Windows 10,410.8,2.4,4,0,500,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+652,57,544,HP,250 G6,Notebook,15.6,Windows 10,398.99,1.86,4,256,0,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,2073600,0,1,0,0,0,0
+653,569,1029,Toshiba,Portege A30-C-1CZ,Notebook,13.3,Windows 10,1210.0,1.5,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+654,10,849,Asus,Rog GL702VM-GC017T,Gaming,17.3,Windows 10,1799.0,2.73,16,512,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+655,1038,281,Dell,Inspiron 5770,Notebook,17.3,Linux,1099.0,2.8,8,128,1024,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+656,699,510,Lenovo,IdeaPad 320-14IAP,Notebook,14.0,Windows 10,299.0,2.1,4,0,500,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+657,458,1019,HP,EliteBook 840,Notebook,14.0,Windows 10,1099.99,1.48,4,256,0,0,0,Core i5,2.4,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+658,244,336,MSI,GL72M 7REX,Gaming,17.3,Windows 10,1199.0,2.7,8,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+659,738,1300,HP,Stream 11-Y000na,Netbook,11.6,Windows 10,209.0,1.17,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+660,37,1280,Dell,Inspiron 3567,Notebook,15.6,Windows 10,459.0,2.3,6,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+661,732,992,HP,15-bs053od (i7-7500U/6GB/1TB/W10),Notebook,15.6,Windows 10,579.0,2.04,6,0,1024,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+662,1173,144,Lenovo,ThinkPad E480,Notebook,14.0,Windows 10,1116.02,1.75,8,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon RX 550,2073600,1,1,0,0,0,0
+663,113,727,HP,ProBook 470,Notebook,17.3,Windows 10,1200.0,2.63,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+664,1146,433,Dell,Inspiron 5570,Notebook,15.6,Windows 10,1142.4,2.02,8,256,2048,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+665,1100,1110,Acer,Aspire F5-573G,Notebook,15.6,Windows 10,799.0,2.4,8,256,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 950M,2073600,0,1,0,0,0,0
+666,407,470,Lenovo,IdeaPad 510s-14IKB,Notebook,14.0,No OS,799.0,1.5,8,512,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R7 M460,2073600,1,1,0,0,0,0
+667,1256,1065,HP,Noteb Pav,Notebook,15.6,Windows 10,979.0,1.91,8,0,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,1,1,0,0,0,0
+668,269,1255,Dell,Vostro 3559,Notebook,15.6,Windows 7,737.0,2.24,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+669,404,1281,Acer,Aspire ES1-531,Notebook,15.6,Linux,289.0,2.4,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+670,897,492,Lenovo,ThinkPad E480,Notebook,14.0,Windows 10,1049.0,1.75,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+671,436,459,HP,ProBook 650,Workstation,15.6,Windows 10,1534.0,2.31,8,512,0,0,0,Core i7,2.9,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+672,717,292,Asus,VivoBook S15,Ultrabook,15.6,Windows 10,977.0,1.7,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+673,595,1268,Dell,Inspiron 3552,Notebook,15.6,Linux,324.0,2.2,4,0,500,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+674,276,1259,Asus,ZenBook UX310UA-WB71,Ultrabook,13.3,Windows 10,1280.0,1.45,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+675,812,444,Google,Pixelbook (Core,Ultrabook,12.3,Chrome OS,2199.0,1.1,16,512,0,0,0,Core i7,1.3,1,1,0,0,1,0,HD Graphics 615,3840000,0,0,1,0,0,0
+676,497,346,Dell,Inspiron 3552,Notebook,15.6,Linux,274.9,2.2,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+677,85,531,Dell,Inspiron 5770,Notebook,17.3,Linux,889.0,2.8,8,128,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,1,1,0,0,0,0
+678,557,81,HP,ProBook 470,Notebook,17.3,Windows 10,977.0,2.5,8,128,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+679,757,497,Lenovo,Thinkpad E570,Notebook,15.6,Windows 10,1011.99,2.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,1,1,0,0,0,0
+680,564,1223,Dell,Inspiron 5567,Notebook,15.6,Windows 10,889.0,2.36,8,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R7 M445,2073600,0,1,0,0,0,0
+681,895,1149,Acer,Aspire E5-576G,Notebook,15.6,Windows 10,616.0,2.23,4,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+682,365,1039,HP,Elitebook 820,Ultrabook,12.5,Windows 10,1559.0,1.26,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+683,769,1102,Lenovo,ThinkPad T460,Notebook,14.0,Windows 7,1199.0,1.7,8,180,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+684,324,97,Acer,Spin 5,2 in 1 Convertible,13.3,Windows 10,847.0,1.5,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,1,0,0,0
+685,844,821,Samsung,Notebook 9,Ultrabook,13.3,Windows 10,1499.0,0.81,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+686,924,664,Dell,Inspiron 5570,Notebook,15.6,Windows 10,919.0,2.2,8,256,0,0,0,Core i7,1.8,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+687,221,151,MSI,GE72MVR 7RG,Gaming,17.3,Windows 10,2029.0,2.9,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+688,348,211,Dell,XPS 13,Ultrabook,13.3,Windows 10,1949.0,1.21,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+689,229,1045,Acer,Aspire 3,Notebook,15.6,Windows 10,409.0,2.1,6,0,1024,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+690,168,713,Dell,Vostro 5568,Notebook,15.6,Windows 10,795.0,2.18,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+691,74,4,Apple,MacBook Pro,Ultrabook,15.4,macOS,2537.45,1.83,16,512,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon Pro 455,5184000,1,0,0,0,1,0
+692,405,1119,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1199.0,2.4,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+693,760,299,Lenovo,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Notebook,15.6,Windows 10,739.0,2.05,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+694,941,183,HP,Spectre x360,2 in 1 Convertible,13.3,Windows 10,1499.0,1.29,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+695,868,693,Dell,Alienware 15,Gaming,15.6,Windows 10,2813.75,3.49,16,256,1024,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+696,65,818,Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Windows 10,609.0,2.4,4,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 920M,2073600,0,1,0,0,0,0
+697,314,1277,MSI,GE62 Apache,Gaming,15.6,Windows 10,1229.0,2.4,8,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,0,1,0,0,0,0
+698,1034,699,Lenovo,IdeaPad 520s-14IKB,Notebook,14.0,Windows 10,699.0,1.7,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+699,1114,171,Dell,Inspiron 5577,Gaming,15.6,Windows 10,1060.49,2.56,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+700,1175,556,Lenovo,ThinkPad T570,Notebook,15.6,Windows 10,1729.0,1.99,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+701,321,205,Lenovo,V110-15ISK (i5-6200U/4GB/128GB/W10),Notebook,15.6,Windows 10,493.0,2.1,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+702,467,1058,HP,EliteBook 840,Notebook,14.0,Windows 10,1000.0,1.54,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+703,1022,316,Dell,XPS 13,Ultrabook,13.3,Windows 10,2499.0,1.21,16,1024,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+704,629,288,Lenovo,Ideapad 320-15IKBN,Notebook,15.6,Windows 10,579.0,2.2,6,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+705,433,769,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1048.0,2.5,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+706,1169,1317,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,Windows 10,1499.0,1.3,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,5760000,1,1,1,0,0,1
+707,741,1244,Dell,XPS 13,Ultrabook,13.3,Windows 10,1477.0,1.29,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,5760000,0,1,1,0,0,1
+708,131,92,Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,Gaming,15.6,Windows 10,699.0,2.45,8,0,1024,0,0,FX,3.0,1,0,1,1,0,0,Radeon RX 560,2073600,0,1,0,0,0,0
+709,1035,150,Asus,X541NA (N3350/4GB/1TB/FHD/W10),Notebook,15.6,Windows 10,344.0,2.0,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,2073600,0,1,0,0,0,0
+710,1130,980,Dell,Latitude 5580,Notebook,15.6,Windows 10,825.0,1.9,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+711,787,1107,Asus,Rog GL702VM-GC354T,Gaming,17.3,Windows 10,1599.0,2.7,8,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+712,1092,551,Asus,VivoBook X540YA-XX519T,Notebook,15.6,Windows 10,349.0,2.0,4,0,500,0,0,E-Series,1.8,1,0,1,1,0,0,Radeon R2 Graphics,1049088,0,0,0,0,0,0
+713,1058,976,Acer,Aspire F5-573G-510L,Notebook,15.6,Windows 10,1009.0,2.4,12,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 950M,2073600,0,1,0,0,0,0
+714,1132,1305,HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,Windows 10,764.0,2.19,6,0,1024,0,0,Core i7,2.5,1,1,0,1,0,0,Radeon R5 M330,1049088,0,0,0,0,0,0
+715,335,1265,Asus,Rog GL502VS,Gaming,15.6,Windows 10,2325.0,2.34,16,256,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+716,847,326,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,Windows 10,589.0,2.79,4,0,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 920MX,1440000,0,0,0,0,0,0
+717,999,391,Lenovo,Thinkpad X1,Ultrabook,14.0,Windows 10,2282.0,1.13,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,3686400,1,0,0,0,0,0
+718,1275,774,Acer,TravelMate P238-M,Notebook,13.3,Windows 10,655.0,1.6,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+719,1079,464,Microsoft,Surface Laptop,Ultrabook,13.5,Windows 10 S,989.0,1.252,4,128,0,0,0,Core M m3-7Y30,2.2,1,1,0,0,1,0,HD Graphics 615,3393024,0,0,1,0,0,0
+720,3,891,HP,EliteBook x360,2 in 1 Convertible,13.3,Windows 10,1700.0,1.28,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+721,107,944,Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Windows 10,309.0,2.2,4,0,1024,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+722,119,602,Lenovo,IdeaPad 110-15ISK,Notebook,15.6,Windows 10,459.0,2.29,8,0,1024,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+723,393,1180,HP,Pavilion 15-cb003nv,Gaming,15.6,Windows 10,899.0,2.62,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+724,1120,1311,Lenovo,IdeaPad Y700-15ISK,Notebook,15.6,Windows 10,899.0,2.6,8,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,1,1,0,0,0,0
+725,58,185,Dell,XPS 13,Ultrabook,13.3,Windows 10,1399.0,1.23,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+726,594,275,Apple,MacBook Pro,Ultrabook,13.3,macOS,1958.9,1.37,8,512,0,0,0,Core i5,2.9,1,1,0,0,1,0,Iris Graphics 550,4096000,1,0,0,0,1,0
+727,864,519,Dell,Vostro 5568,Notebook,15.6,Windows 10,836.0,2.18,8,0,1024,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+728,11,645,Lenovo,IdeaPad 100S-14IBR,Notebook,14.0,Windows 10,249.0,1.42,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+729,274,1017,HP,Probook 440,Notebook,14.0,Windows 10,779.0,1.64,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+730,442,1080,Dell,XPS 13,Ultrabook,13.3,Windows 10,1458.0,1.29,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+731,686,1218,Dell,Inspiron 5567,Notebook,15.6,Windows 10,499.0,2.3,4,128,0,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R7 M440,1049088,0,0,0,0,0,0
+732,1243,811,Dell,XPS 13,Ultrabook,13.3,Windows 10,1499.0,1.29,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+733,406,488,Dell,Vostro 3568,Notebook,15.6,Windows 10,586.6,2.18,4,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+734,30,128,HP,250 G6,Notebook,15.6,No OS,259.0,1.86,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+735,1039,738,Acer,Predator 17,Gaming,17.3,Windows 10,1935.0,4.2,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 1060,2073600,1,1,0,0,0,0
+736,1144,658,Asus,ROG G701VI,Gaming,17.3,Windows 10,2799.0,3.8,32,512,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 1080,2073600,1,1,0,0,0,0
+737,429,888,Xiaomi,Mi Notebook,Ultrabook,13.3,Windows 10,935.0,1.28,8,256,0,0,0,Core i5,2.3,1,1,0,0,0,1,GeForce 940MX,2073600,1,1,0,0,0,0
+738,320,181,MSI,GT80S 6QF-074US,Gaming,18.4,Windows 10,2799.0,4.4,32,512,1024,0,0,Core i7,2.9,1,1,0,0,0,1,GTX 980 SLI,2073600,0,1,0,0,0,0
+739,664,295,Acer,Chromebook C910-C2ST,Notebook,15.6,Chrome OS,199.0,2.19,2,16,0,0,0,Celeron Dual Core,1.5,2,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+740,1008,85,Lenovo,IdeaPad 320-15AST,Notebook,15.6,Windows 10,399.0,2.2,4,128,0,0,0,A6-Series,2.5,1,0,1,1,0,0,R4 Graphics,2073600,0,1,0,0,0,0
+741,698,1182,HP,250 G4,Notebook,15.6,No OS,476.99,2.1,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+742,340,248,Dell,Inspiron 5577,Gaming,15.6,Windows 10,879.0,2.56,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+743,1244,253,HP,ProBook 430,Notebook,13.3,Windows 10,675.0,1.49,4,0,500,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+744,916,791,Toshiba,Tecra Z40-C-161,Ultrabook,14.0,Windows 10,1764.0,1.47,16,512,0,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce 930M,2073600,1,1,0,0,0,0
+745,387,311,HP,EliteBook x360,2 in 1 Convertible,13.3,Windows 10,1975.0,1.28,16,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+746,101,1308,Dell,Inspiron 3567,Notebook,15.6,Windows 10,459.0,2.3,6,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+747,177,718,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Windows 10,1249.0,2.5,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,1,1,0,0,0,0
+748,680,230,Acer,Aspire E5-576G,Notebook,15.6,Windows 10,832.0,2.2,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+749,414,572,Dell,XPS 13,Ultrabook,13.3,Windows 10,1599.0,1.21,8,128,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+750,1019,1014,Acer,Nitro 5,Gaming,15.6,Windows 10,1260.0,2.7,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,1,1,0,0,0,0
+751,390,308,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,No OS,549.0,2.2,8,0,2048,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,1049088,0,0,0,0,0,0
+752,959,59,MSI,GS73VR 7RG,Gaming,17.3,Windows 10,2449.0,2.43,16,256,2048,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,0,1,0,0,0,0
+753,447,903,Samsung,Notebook 9,Ultrabook,15.0,Windows 10,1699.0,1.17,8,256,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+754,1090,491,Lenovo,ThinkPad E570,Notebook,15.6,Windows 10,565.0,2.3,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+755,216,679,Lenovo,V310-15ISK (i5-7200U/8GB/1TB,Notebook,15.6,Windows 10,817.95,1.9,8,128,1024,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+756,852,634,Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,No OS,468.0,2.2,4,128,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+757,1141,1171,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1199.0,2.62,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050Ti,2073600,0,1,0,0,0,0
+758,952,355,Dell,Inspiron 5570,Ultrabook,15.6,Windows 10,663.0,1.9,8,0,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+759,1284,553,Lenovo,ThinkPad E470,Notebook,14.0,Windows 10,785.0,1.87,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+760,450,256,Asus,ROG G752VSK-GC493T,Gaming,17.3,Windows 10,1799.0,4.3,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 980M,2073600,0,1,0,0,0,0
+761,691,1022,HP,ProBook 440,Notebook,14.0,Windows 10,1049.26,1.64,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+762,830,175,HP,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Notebook,17.3,Windows 10,699.0,2.71,6,0,2048,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon 520,2073600,1,1,0,0,0,0
+763,832,702,Toshiba,Satellite Pro,Notebook,13.3,Windows 10,973.0,1.5,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+764,683,941,HP,Probook 650,Notebook,15.6,Windows 10,1165.0,2.31,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+765,1183,1273,Asus,X541NA-GO020T (N3350/4GB/1TB/W10),Notebook,15.6,Windows 10,339.0,2.0,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+766,103,1047,HP,Probook 640,Notebook,14.0,Windows 7,1195.0,1.95,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+767,123,192,Acer,Swift 7,Ultrabook,13.3,Windows 10,989.0,1.12,8,256,0,0,0,Core i5,1.2,1,1,0,0,1,0,HD Graphics 615,2073600,1,1,0,0,0,0
+768,670,1024,Dell,Inspiron 7567,Gaming,15.6,Windows 10,949.0,2.65,8,0,0,0,1024,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+769,56,540,Mediacom,SmartBook Edge,Notebook,13.3,Windows 10,369.0,1.2,4,32,0,0,0,Celeron Quad Core N3450,1.1,4,1,0,0,1,0,HD Graphics 500,2073600,1,1,0,0,0,0
+770,1119,998,Toshiba,Tecra A40-C-1KF,Notebook,14.0,Windows 10,915.0,1.75,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+771,749,499,Asus,VivoBook Pro,Gaming,15.6,Windows 10,1350.0,1.99,8,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+772,604,381,HP,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),Notebook,15.6,Windows 10,488.99,1.91,4,256,0,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5,2073600,0,1,0,0,0,0
+773,242,734,Dell,Inspiron 5570,Notebook,15.6,Windows 10,719.0,2.2,8,128,1024,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+774,284,1199,Lenovo,IdeaPad 310-15IKB,Ultrabook,15.6,Windows 10,831.0,1.54,6,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 920M,2073600,0,1,0,0,0,0
+775,988,783,HP,EliteBook 820,Ultrabook,12.5,Windows 10,1244.0,1.26,4,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+776,275,1130,Dell,XPS 13,Ultrabook,13.3,Windows 10,1379.0,1.23,8,256,0,0,0,Core i7,2.4,1,1,0,0,1,0,Iris Plus Graphics 640,2073600,0,1,0,0,0,0
+777,1012,916,Lenovo,ThinkPad T570,Notebook,15.6,Windows 10,1962.99,1.95,8,512,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+778,774,474,Dell,Inspiron 5570,Notebook,15.6,Windows 10,759.0,2.02,8,0,2048,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+779,588,91,Dell,XPS 13,Ultrabook,13.3,Windows 10,1649.0,1.21,8,256,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,1,1,0,0,0,0
+780,1289,526,Asus,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Gaming,17.3,Windows 10,1504.0,3.0,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX1050 Ti,2073600,0,1,0,0,0,0
+781,790,360,Toshiba,Tecra A50-C-21G,Notebook,15.6,Windows 10,1403.0,2.4,16,512,0,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 930M,2073600,1,1,0,0,0,0
+782,13,1011,Acer,Aspire ES1-533,Notebook,15.6,Windows 10,380.0,2.4,4,0,500,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,0,0,0,0
+783,840,427,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,Windows 10,1899.0,2.0,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,8294400,1,1,1,1,0,0
+784,995,364,Dell,Inspiron 3567,Notebook,15.6,Windows 10,557.37,2.36,8,0,2048,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+785,647,490,Chuwi,"Lapbook 15,6",Notebook,15.6,Windows 10,248.9,1.89,4,0,0,64,0,Atom x5-Z8350,1.44,1,1,0,0,1,0,HD Graphics,2073600,0,1,0,0,0,0
+786,400,45,Dell,Inspiron 7773,2 in 1 Convertible,17.3,Windows 10,999.0,2.77,12,0,1024,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce 150MX,2073600,0,1,1,0,0,0
+787,98,315,Lenovo,IdeaPad 720S-13IKB,Notebook,13.3,Windows 10,999.0,1.1,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+788,1292,1251,MSI,GE72VR Apache,Gaming,17.3,Windows 10,1598.0,2.7,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+789,202,758,HP,Zbook 17,Workstation,17.3,Windows 7,4389.0,3.0,16,256,0,0,0,Xeon E3-1535M v5,2.9,1,1,0,0,0,1,Quadro M2000M,2073600,1,1,0,0,0,0
+790,198,1132,Razer,Blade Stealth,Ultrabook,12.5,Windows 10,1029.0,1.25,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,8294400,0,1,1,1,0,0
+791,1025,545,HP,Omen 15-ce006nv,Gaming,17.3,Windows 10,1799.0,2.62,12,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,2073600,0,1,0,0,0,0
+792,1232,452,Dell,Latitude 5480,Notebook,14.0,Windows 10,1179.0,1.64,8,256,0,0,0,Core i5,2.8,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+793,368,1252,Apple,MacBook Air,Ultrabook,11.6,Mac OS X,959.0,1.08,4,0,0,256,0,Core i5,1.6,1,1,0,0,1,0,HD Graphics 6000,1049088,0,0,0,0,0,0
+794,1107,947,Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,Windows 10,1799.0,1.3,16,1024,0,0,0,Core i7,2.2,1,1,0,0,1,0,Iris Graphics 540,5760000,1,1,1,0,0,1
+795,1153,259,Acer,Aspire 5,Notebook,17.3,Windows 10,702.0,3.0,4,256,0,0,0,Core i3,2.7,1,1,0,0,0,1,GeForce MX130,2073600,1,1,0,0,0,0
+796,859,31,Chuwi,"LapBook 15.6""",Notebook,15.6,Windows 10,244.99,1.89,4,0,0,64,0,Atom x5-Z8300,1.44,1,1,0,0,1,0,HD Graphics,2073600,0,1,0,0,0,0
+797,190,1115,Dell,Latitude E5270,Ultrabook,12.5,Windows 7,1135.15,1.5,4,0,500,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+798,773,1224,HP,15-bs025nv (i5-7200U/8GB/256GB/W10),Notebook,15.6,Windows 10,579.0,1.91,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+799,876,772,Asus,Zenbook UX330UA-AH5Q,Ultrabook,13.3,Windows 10,1129.0,1.2,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,5760000,1,1,0,0,0,1
+800,118,817,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1679.0,2.62,16,512,0,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,8294400,0,1,0,1,0,0
+801,246,269,Dell,Inspiron 3567,Notebook,15.6,Windows 10,565.0,2.24,8,0,1024,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+802,1069,631,HP,EliteBook 850,Notebook,15.6,Windows 7,932.0,1.88,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+803,1219,667,Dell,Alienware 17,Gaming,17.3,Windows 10,3147.37,4.42,32,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,8294400,1,1,0,1,0,0
+804,1030,971,HP,ProBook x360,2 in 1 Convertible,11.6,Windows 10,775.0,1.45,4,256,0,0,0,Pentium Quad Core N4200,1.1,4,1,0,0,1,0,HD Graphics 505,1049088,0,0,1,0,0,0
+805,589,912,Dell,XPS 13,2 in 1 Convertible,13.3,Windows 10,2013.1,1.24,8,512,0,0,0,Core i7,1.3,1,1,0,0,1,0,HD Graphics 615,5760000,0,1,1,0,0,1
+806,1106,996,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Windows 10,549.0,2.2,6,256,0,0,0,A12-Series,3.6,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+807,1283,615,Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,Windows 10,1299.0,2.0,8,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics 630,2073600,1,1,1,0,0,0
+808,1269,825,Razer,Blade Stealth,Ultrabook,12.5,Windows 10,1799.0,1.29,16,512,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 620,8294400,1,1,1,1,0,0
+809,1223,186,Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,Windows 10,1849.0,1.4,16,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,8294400,1,1,1,1,0,0
+810,161,33,HP,17-ak001nv (A6-9220/4GB/500GB/Radeon,Notebook,17.3,Windows 10,439.0,2.71,4,0,500,0,0,A6-Series,2.5,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+811,124,1193,Asus,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Notebook,14.0,Windows 10,769.0,2.0,4,256,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+812,1198,1202,HP,Pavilion 15-BC000nv,Notebook,15.6,Windows 10,799.0,2.18,6,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,1,1,0,0,0,0
+813,204,54,HP,ProBook 430,Notebook,13.3,Windows 10,1103.0,1.49,8,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+814,18,114,Dell,XPS 13,Ultrabook,13.3,Windows 10,1379.0,1.23,8,256,0,0,0,Core i7,2.4,1,1,0,0,1,0,Iris Plus Graphics 640,5760000,0,1,1,0,0,1
+815,84,93,Acer,Aspire 5,Notebook,15.6,Windows 10,689.0,2.2,8,0,1024,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce MX150,2073600,0,1,0,0,0,0
+816,874,394,Dell,Precision 5520,Workstation,15.6,Windows 10,2135.0,2.0,8,256,0,0,0,Core i7,2.7,1,1,0,0,0,1,Quadro M1200,2073600,1,1,0,0,0,0
+817,222,260,Dell,Vostro 5370,Ultrabook,13.3,Windows 10,949.0,1.41,8,256,0,0,0,Core i5,1.6,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+818,1158,564,Lenovo,IdeaPad 320-17IKB,Notebook,17.3,Windows 10,949.0,2.8,6,128,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,1440000,0,0,0,0,0,0
+819,1145,1118,HP,ZBook 17,Workstation,17.3,Windows 7,2899.0,3.0,8,0,1024,0,0,Core i7,2.6,1,1,0,1,0,0,FirePro W6150M,2073600,1,1,0,0,0,0
+820,1272,210,Dell,Inspiron 3567,Notebook,15.6,Windows 10,439.0,2.3,6,0,1024,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+821,1207,384,Asus,VivoBook E403NA,Notebook,14.0,Windows 10,286.0,1.5,4,0,0,32,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+822,430,726,Mediacom,Smartbook 142,Notebook,14.0,Windows 10,265.0,1.4,4,0,32,0,0,Atom Z8350,1.92,1,1,0,0,1,0,HD Graphics 400,2304000,1,1,0,0,0,0
+823,1291,1228,Apple,"MacBook 12""",Ultrabook,12.0,Mac OS X,1279.0,0.92,8,0,0,512,0,Core M,1.2,1,1,0,0,1,0,HD Graphics 515,3317760,1,0,0,0,1,0
+824,491,594,Lenovo,Thinkpad T460s,Ultrabook,14.0,Windows 10,1673.0,1.4,12,256,0,0,0,Core i7,2.6,1,1,0,0,1,0,HD Graphics 520,2073600,1,1,0,0,0,0
+825,623,816,HP,15-ba043na (A12-9700P/8GB/2TB/W10),Notebook,15.6,Windows 10,629.0,2.04,8,0,2048,0,0,A12-Series,2.5,1,0,1,1,0,0,Radeon R7 Graphics,1049088,0,0,0,0,0,0
+826,147,448,Dell,Inspiron 5570,Notebook,15.6,Windows 10,749.0,2.2,4,256,0,0,0,Core i5,1.6,1,1,0,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+827,33,884,Lenovo,Thinkpad 13,Notebook,13.3,Windows 10,735.0,1.44,4,180,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+828,943,995,Toshiba,Portege Z30-C-1CV,Notebook,13.3,Windows 7,1195.0,1.2,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+829,1253,801,Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,Windows 10,1970.0,1.37,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+830,1097,952,Dell,Latitude 7480,Ultrabook,14.0,Windows 10,1639.0,1.36,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+831,866,224,Dell,Inspiron 5379,2 in 1 Convertible,13.3,Windows 10,1279.0,1.62,16,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,1,0,0,0
+832,558,1189,HP,ProBook 450,Notebook,15.6,Windows 10,1159.0,2.1,16,512,0,0,0,Core i7,1.8,1,1,0,0,1,0,UHD Graphics 620,2073600,0,1,0,0,0,0
+833,1085,51,Lenovo,Yoga Book,2 in 1 Convertible,10.1,Android,319.0,0.69,4,0,0,64,0,Atom x5-Z8550,1.44,1,1,0,0,1,0,HD Graphics 400,2304000,1,0,1,0,0,0
+834,1041,1186,HP,Stream 14-AX000nv,Notebook,14.0,Windows 10,249.0,1.44,2,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+835,1277,571,Asus,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Notebook,15.6,Windows 10,839.0,2.5,8,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+836,1082,584,Lenovo,IdeaPad Y910-17ISK,Gaming,17.3,Windows 10,2663.0,4.6,32,256,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+837,73,839,Razer,Blade Pro,Gaming,17.3,Windows 10,5499.0,3.49,32,512,0,0,0,Core i7,2.9,1,1,0,0,0,1,GeForce GTX 1080,8294400,0,1,1,1,0,0
+838,199,1075,Asus,Rog G752VL-GC088D,Gaming,17.3,No OS,998.0,4.0,16,0,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 965M,2073600,1,1,0,0,0,0
+839,1159,1112,MSI,GS70 Stealth,Gaming,17.3,Windows 10,1599.0,2.6,8,256,0,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 965M,2073600,0,1,0,0,0,0
+840,1208,946,HP,250 G6,Notebook,15.6,No OS,288.9,1.86,4,0,1024,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+841,579,518,Acer,Aspire A515-51G,Notebook,15.6,Windows 10,639.0,2.2,4,0,500,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+842,302,515,HP,Envy 13-AB002nv,Ultrabook,13.3,Windows 10,1323.0,1.34,8,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+843,818,1043,HP,Probook 470,Notebook,17.3,Windows 10,1080.0,2.63,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 930MX,2073600,0,1,0,0,0,0
+844,1006,1309,Acer,Aspire ES1-531,Notebook,15.6,Linux,289.0,2.4,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+845,448,782,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1099.0,2.62,8,0,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+846,919,111,MSI,GP62M 7REX,Gaming,15.6,Windows 10,1299.0,2.2,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+847,35,49,Dell,Inspiron 3567,Notebook,15.6,Windows 10,639.0,2.3,4,256,0,0,0,Core i5,2.5,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+848,1045,1099,Dell,Vostro 3568,Notebook,15.6,Windows 10,750.0,2.18,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+849,596,897,Dell,Vostro 3568,Notebook,15.6,Linux,455.7,2.18,4,0,1024,0,0,Core i3,2.0,1,1,0,1,0,0,Radeon R5 M420X,1049088,0,0,0,0,0,0
+850,1218,1198,Lenovo,ThinkPad X1,2 in 1 Convertible,14.0,Windows 10,1637.0,1.36,8,256,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,3686400,1,0,1,0,0,0
+851,214,573,Dell,Latitude 5580,Notebook,15.6,Windows 10,959.0,1.93,4,0,500,0,0,Core i5,2.6,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+852,469,203,HP,Probook 470,Notebook,17.3,Windows 10,1045.0,2.5,8,256,0,0,0,Core i7,1.8,1,1,0,0,0,1,GeForce 930MX ,2073600,0,1,0,0,0,0
+853,933,889,Dell,Vostro 5568,Notebook,15.6,Windows 10,912.5,2.18,4,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce 940MX,2073600,0,1,0,0,0,0
+854,1249,582,Mediacom,SmartBook 141,Notebook,14.0,Windows 10,249.0,1.4,4,32,0,0,0,Atom x5-Z8350,1.44,1,1,0,0,1,0,HD Graphics,2073600,0,1,0,0,0,0
+855,803,17,Dell,Inspiron 3567,Notebook,15.6,Windows 10,745.0,2.2,8,256,0,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,2073600,0,1,0,0,0,0
+856,372,1295,Acer,Aspire ES1-531,Notebook,15.6,Linux,289.0,2.4,4,0,500,0,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,0,0,0,0,0,0
+857,1287,539,Asus,Zenbook UX510UW-FI095T,Notebook,15.6,Windows 10,1299.0,2.0,8,256,1024,0,0,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 960M,8294400,1,1,0,1,0,0
+858,506,227,Toshiba,Portege Z30-C-16L,Ultrabook,13.3,Windows 10,1363.0,1.2,8,256,0,0,0,Core i7,2.5,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+859,775,898,Asus,Rog GL753VD-GC082T,Gaming,17.3,Windows 10,1369.9,2.2,12,128,1024,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce GTX 1050,2073600,0,1,0,0,0,0
+860,281,1026,HP,Elitebook 840,Notebook,14.0,Windows 10,1590.0,1.48,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+861,234,639,Dell,Inspiron 7567,Gaming,15.6,Windows 10,1479.0,2.62,16,256,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1050 Ti,2073600,0,1,0,0,0,0
+862,782,1272,Dell,Inspiron 3552,Notebook,15.6,Windows 10,443.99,2.2,4,0,500,0,0,Pentium Quad Core N3700,1.6,4,1,0,0,1,0,HD Graphics,1049088,0,0,0,0,0,0
+863,307,879,Acer,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Notebook,14.0,Windows 10,902.0,1.56,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+864,106,676,Toshiba,Tecra Z50-D-10E,Notebook,15.6,Windows 10,1258.0,2.0,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+865,504,755,HP,250 G6,Notebook,15.6,Windows 10,539.0,1.86,8,256,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+866,1172,1040,HP,ProBook 650,Notebook,14.0,Windows 10,1189.0,2.31,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+867,1276,344,Asus,X541NA (N3350/4GB/1TB/Linux),Notebook,15.6,Linux,274.99,2.0,4,0,1024,0,0,Celeron Dual Core N3350,1.1,2,1,0,0,1,0,HD Graphics 500,1049088,0,0,0,0,0,0
+868,228,1287,Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,Windows 10,720.32,2.2,4,0,500,0,0,Core i7,2.5,1,1,0,0,0,1,GeForce 920M,1049088,0,0,0,0,0,0
+869,424,890,HP,ProBook 450,Notebook,15.6,Windows 10,839.0,2.04,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+870,740,1067,HP,ProBook 450,Notebook,15.6,Windows 10,979.0,2.04,4,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+871,415,552,HP,ProBook 450,Notebook,15.6,Windows 10,705.5,2.1,4,128,0,0,0,Core i3,2.4,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+872,116,955,Asus,X751SV-TY001T (N3710/4GB/1TB/GeForce,Notebook,17.3,Windows 10,530.0,2.8,4,0,1024,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,0,1,GeForce 920MX,1440000,0,0,0,0,0,0
+873,1009,869,Dell,Inspiron 5368,Notebook,13.3,Windows 10,649.0,1.62,8,0,1024,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,1,0,0,0
+874,79,776,Dell,Inspiron 7559,Gaming,15.6,Windows 10,1099.0,2.72,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,8294400,1,1,1,1,0,0
+875,1234,1173,HP,15-bw002nv (A6-9220/4GB/256GB/Radeon,Notebook,15.6,Windows 10,478.89,1.91,4,256,0,0,0,A6-Series A6-9220,2.5,1,0,1,1,0,0,Radeon 520,2073600,0,1,0,0,0,0
+876,272,833,Lenovo,ThinkPad X1,Ultrabook,14.0,Windows 10,1875.0,1.13,8,0,0,256,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,0,0,0,0
+877,247,1124,Asus,Rog GL552VW-CN470T,Gaming,15.6,Windows 10,1339.0,2.59,16,128,1024,0,0,Core i7,2.6,1,1,0,0,0,1,GeForce GTX 960M,2073600,1,1,0,0,0,0
+878,1178,537,Dell,Alienware 17,Gaming,17.3,Windows 10,3012.77,4.42,16,128,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1070,2073600,1,1,0,0,0,0
+879,409,1212,Dell,Inspiron 7378,2 in 1 Convertible,13.3,Windows 10,1199.0,1.6,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,1,1,1,0,0,0
+880,46,1096,Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,Windows 10,3240.0,4.6,32,512,0,0,1024,Core i7,2.7,1,1,0,0,0,1,GeForce GTX 980M,2073600,1,1,0,0,0,0
+881,52,710,Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Windows 10,429.0,2.2,8,0,1024,0,0,A12-Series,3.6,1,0,1,1,0,0,Radeon R7,1049088,0,0,0,0,0,0
+882,855,512,Lenovo,ThinkPad 13,Notebook,13.3,Windows 10,949.0,1.44,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+883,1273,1278,Lenovo,Yoga 500-14IBD,2 in 1 Convertible,14.0,Windows 10,833.01,1.8,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,1,0,0,0
+884,1095,257,Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,Windows 10,469.0,1.68,4,0,1024,0,0,A9-Series,3.0,1,0,1,1,0,0,Radeon R5 M420,1049088,0,0,0,0,0,0
+885,254,1264,Dell,Latitude 5480,Notebook,14.0,Windows 10,875.0,1.6,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+886,431,387,Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Notebook,15.6,No OS,403.5,1.85,4,128,0,0,0,Core i3,2.0,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+887,19,654,Acer,Swift 3,Ultrabook,14.0,Windows 10,919.0,1.8,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,Graphics 620,2073600,1,1,0,0,0,0
+888,213,704,Lenovo,Yoga 910-13IKB,2 in 1 Convertible,14.0,Windows 10,1749.0,1.38,16,512,0,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,1,0,0,0
+889,339,460,Lenovo,ThinkPad T470,Notebook,14.0,Windows 10,1345.0,1.65,8,256,0,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+890,223,578,HP,14-am079na (N3710/8GB/2TB/W10),Notebook,14.0,Windows 10,389.0,1.94,8,0,2048,0,0,Pentium Quad Core N3710,1.6,4,1,0,0,1,0,HD Graphics 405,1049088,0,0,0,0,0,0
+891,456,1084,Apple,"MacBook 12""",Ultrabook,12.0,Mac OS X,1300.0,0.92,8,0,0,256,0,Core M,1.1,1,1,0,0,1,0,HD Graphics 515,3317760,1,0,0,0,1,0
+892,986,280,Dell,Inspiron 5567,Notebook,15.6,Windows 10,713.07,2.3,12,0,1024,0,0,Core i7,2.7,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+893,253,1191,Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Notebook,15.6,No OS,398.0,2.1,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+894,4,1284,HP,Pavilion 15-AW003nv,Notebook,15.6,Windows 10,549.99,2.04,6,0,0,0,1024,A9-Series,2.9,1,0,1,1,0,0,Radeon R7 M440,2073600,0,1,0,0,0,0
+895,1134,709,Lenovo,IdeaPad 320-15AST,Notebook,15.6,Windows 10,399.0,2.2,4,256,0,0,0,A9-Series,2.9,1,0,1,1,0,0,Radeon 530,2073600,0,1,0,0,0,0
+896,1137,595,Lenovo,Ideapad 320-15IKBR,Notebook,15.6,Windows 10,609.0,2.2,12,0,1024,0,0,Core i7,1.8,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,1,0,0,0
+897,137,196,Xiaomi,Mi Notebook,Ultrabook,13.3,No OS,999.9,1.3,8,256,0,0,0,Core i5,2.5,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+898,1187,1094,HP,Probook 650,Notebook,15.6,Windows 7,940.0,2.31,4,0,500,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+899,12,482,Dell,Latitude E5470,Notebook,14.0,Windows 10,740.0,1.79,8,128,0,0,0,Core i3,2.3,1,1,0,0,1,0,HD Graphics 520,1049088,0,0,0,0,0,0
+900,478,176,Lenovo,IdeaPad 320-15AST,Notebook,15.6,No OS,309.0,2.2,4,0,500,0,0,A6-Series,2.9,1,0,1,1,0,0,Radeon R4 Graphics,1049088,0,0,0,0,0,0
+901,207,1225,Lenovo,IdeaPad 320-15AST,Notebook,15.6,Windows 10,299.0,2.2,4,0,500,0,0,E-Series,2.2,1,0,1,1,0,0,Radeon R2 Graphics,1049088,0,0,0,0,0,0
+902,793,576,Lenovo,ThinkPad L470,Notebook,14.0,Windows 10,990.0,2.02,4,0,500,0,0,Core i5,2.5,1,1,0,0,1,0,HD Graphics 620,1049088,0,0,0,0,0,0
+903,1133,204,Dell,Inspiron 7577,Gaming,15.6,Windows 10,1845.0,2.65,16,512,1024,0,0,Core i7,2.8,1,1,0,0,0,1,GeForce GTX 1060,8294400,1,1,0,1,0,0
+904,266,188,Xiaomi,Mi Notebook,Notebook,15.6,No OS,1199.0,1.95,8,256,0,0,0,Core i5,1.6,1,1,0,0,0,1,GeForce MX150,2073600,1,1,0,0,0,0
+905,1052,752,Lenovo,Thinkpad P51s,Workstation,15.6,Windows 10,3299.0,2.5,16,1024,0,0,0,Core i7,2.8,1,1,0,0,0,1,Quadro M520M,8294400,1,1,0,1,0,0
+906,241,1291,HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,Windows 10,764.0,2.19,6,0,1024,0,0,Core i7,2.5,1,1,0,1,0,0,Radeon R5 M330,1049088,0,0,0,0,0,0
+907,89,973,Acer,Chromebook C738T-C2EJ,2 in 1 Convertible,11.6,Chrome OS,389.0,1.25,4,0,0,32,0,Celeron Dual Core N3060,1.6,2,1,0,0,1,0,HD Graphics 400,1049088,1,0,1,0,0,0
+908,716,1018,Toshiba,Portege Z30-C-16H,Notebook,13.3,Windows 10,1195.0,1.2,4,128,0,0,0,Core i5,2.3,1,1,0,0,1,0,HD Graphics 520,2073600,0,1,0,0,0,0
+909,517,1071,Acer,Aspire ES1-523,Notebook,15.6,Windows 10,449.0,2.4,8,0,1024,0,0,A8-Series,2.2,1,0,1,1,0,0,Radeon R5,1049088,0,0,0,0,0,0
+910,891,965,Dell,Latitude 7480,Ultrabook,14.0,Windows 10,1775.0,1.36,8,256,0,0,0,Core i7,2.8,1,1,0,0,1,0,HD Graphics 620,2073600,0,1,0,0,0,0
+911,1179,1313,Dell,Inspiron 3567,Notebook,15.6,Linux,805.99,2.3,8,0,1024,0,0,Core i7,2.7,1,1,0,1,0,0,Radeon R5 M430,1049088,0,0,0,0,0,0
